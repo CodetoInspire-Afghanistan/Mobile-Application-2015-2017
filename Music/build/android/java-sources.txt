@@ -1,0 +1,7 @@
+"H:/Appcelerator Workspace/Music/build/android/gen/android/support/v7/appcompat/R.java"
+"H:/Appcelerator Workspace/Music/build/android/gen/com/cti/music/AssetCryptImpl.java"
+"H:/Appcelerator Workspace/Music/build/android/gen/com/cti/music/MusicActivity.java"
+"H:/Appcelerator Workspace/Music/build/android/gen/com/cti/music/MusicAppInfo.java"
+"H:/Appcelerator Workspace/Music/build/android/gen/com/cti/music/MusicApplication.java"
+"H:/Appcelerator Workspace/Music/build/android/gen/com/cti/music/R.java"
+"H:/Appcelerator Workspace/Music/build/android/gen/ti/modules/titanium/ui/R.java"

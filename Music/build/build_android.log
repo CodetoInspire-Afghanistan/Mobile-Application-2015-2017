@@ -1,0 +1,887 @@
+
+5/7/2017, 6:41:31 PM
+
+Operating System
+  Name                        = Microsoft Windows 10 Enterprise
+  Version                     = 10.0.14393
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8376569856
+
+Node.js
+  Node.js Version             = 4.7.0
+  npm Version                 = 2.15.11
+
+Titanium CLI
+  CLI Version                 = 5.0.12
+
+Titanium SDK
+  SDK Version                 = 5.0.0.GA
+  SDK Path                    = C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA
+  Target Platform             = android
+
+Command
+  C:\Program Files\nodejs\node.exe C:\Users\Aalem\.appcelerator\install\6.2.0\package\node_modules\titanium\lib\titanium.js build run --platform android --sdk 5.0.0.GA --log-level trace --project-dir H:\Appcelerator Workspace\Music --deploy-type production --target dist-playstore --android-sdk I:\AndroidStudio\SDK --output-dir C:\Users\Aalem\Desktop\Students' Project APK --api-level 10 --alias Music --keystore C:\Users\Aalem\Desktop\Music --store-password aalem123 --key-password aalem123 --no-colors --no-progress-bars --no-prompt --no-banner --prompt-type socket-bundle --prompt-port 49510 --config-file C:\Users\Aalem\AppData\Local\Temp\build-1494166276491.json --no-banner --project-dir H:\Appcelerator Workspace\Music
+
+[DEBUG]  Detecting modules in C:\ProgramData\Application Data\Titanium\modules
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Application Data\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: hyperloop 2.1.0 @ C:\ProgramData\Application Data\Titanium\modules\android\hyperloop\2.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.map 2.3.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.3
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.9
+[DEBUG]  Detected windows module: hyperloop 2.1.0 @ C:\ProgramData\Application Data\Titanium\modules\windows\hyperloop\2.1.0
+[DEBUG]  Detecting modules in C:\ProgramData\Titanium\modules
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: hyperloop 2.1.0 @ C:\ProgramData\Titanium\modules\android\hyperloop\2.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.map 2.3.3 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.3
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.9
+[DEBUG]  Detected windows module: hyperloop 2.1.0 @ C:\ProgramData\Titanium\modules\windows\hyperloop\2.1.0
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android
+[INFO]   Deploy type: production
+[INFO]   Building for target: dist-playstore
+[INFO]   Targeting Android SDK: 23
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: C:\Users\Aalem\Desktop\Music (music)
+[DEBUG]  App ID: com.cti.music
+[DEBUG]  Classname: Music
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: H:\Appcelerator Workspace\Music\build\android\build-manifest.json does not exist
+[TRACE]  offline build file C:\Users\Aalem\AppData\Local\Temp\build-5c88564165d3473c5f5c2b7dcbca635242ffb8fb.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"aalem.daneshyar@codetoinspire.org","session":"2e0aaa0e6c98bbe4b28a0045e1eae7991674413e GT+jujy6f6Vs8Lm0DvaVhrDkyck0gzEBhlv0jr/iClsrjWW8fzQWHCa+b1GkiJCkM7bNk8QFt4m2fu0C1ammblljIIL1BGoNV/Hf9nfX6PO26PCR/QzB4EFULy2ASuuyydTYDVA5utTniBbyfxKUmEvHmoMAe3kjucndLgnEW5OIywvuOZ5M+ylCZDjbzQMvs6xooPoCLJzD1TmrMHlszXwPxr0L6gR5139ShsEg8Y5oU2A7T7I7r5oWQ4Rk/G/cTJOkuFpUK23JM2So3IhAJ0jp3XlEJPU09+HhY+KKsKoyAj31bJLy+w4iLTH0GvDyWtcefgTiMP/1sFtlKGu74zww/ENVLBfYahF3ORgT0XETAeIfWYvzgSS1uyYbX2uXNCLTmQshCR2x8ceWvHS7NN54BAziWCS0gwrSWyfc4WJ23eFhz5/gEVRDs17EtrW41/yky4rsKwIN0GWdFwJQRQdDnzEWiQHqYVFDnzbG++cOowm3KGxGtMXxcAiP0xPDr0/z17wQBSQJI7gaj+Xko48vjMp+vqLPh7iGcKtJmn2rCf5TomCZGl1AowPmO/zivVTFj4Z4FERU82nvklNFyHOIVxRmzb1XskbaN6T1k6CDnEYDXc5jCCa2MAHpGEbbV4qrzfyyKsQAtoc20xfnwsb6CztDmW6lpnw1/CNlrwKfv47KU+rnIJh7fzh305zfcCFPmocQfJO4kwL1xiMB8ssiTRXZXNpWir7b2vBEFyo=","ipaddress":"192.168.56.1","fingerprint":"b09339d6b7cdf9ad40c31b1bc09849628a136422","fingerprint_description":"Windows Machine ID: e417d1a3-f162-42d1-b26b-348e3b829434","guid":"46e177fd-d872-45d5-9111-c4cb897af706","appid":"com.cti.music","name":"Music","org_id":100141720,"deploytype":"production","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>com.cti.music</id>\n  <name>Music</name>\n  <version>1.0</version>\n  <publisher>Codet To Inspire</publisher>\n  <url>http://www.codetoinspire.org</url>\n  <description>Developed by Parisa Salehi</description>\n  <copyright>2017 by Code To Inspire</copyright>\n  <icon>appicon.png</icon>\n  <fullscreen>false</fullscreen>\n  <navbar-hidden>false</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>46e177fd-d872-45d5-9111-c4cb897af706</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <ios>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleDefault</string>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\"/>\n    <mobileweb>\n      <precache/>\n      <splash>\n        <enabled>true</enabled>\n        <inline-css-images>true</inline-css-images>\n      </splash>\n      <theme>default</theme>\n    </mobileweb>\n    <modules/>\n    <deployment-targets>\n      <target device=\"iphone\">false</target>\n      <target device=\"ipad\">false</target>\n      <target device=\"android\">true</target>\n      <target device=\"mobileweb\">false</target>\n      <target device=\"windows\">false</target>\n    </deployment-targets>\n    <sdk-version>5.0.0.GA</sdk-version>\n    <property name=\"appc-app-id\" type=\"string\">590db36ca3b24617ae81148c</property>\n  </ti:app>","modules":[]},"gzip":true,"followAllRedirects":true,"url":"https://platform.appcelerator.com/api/v1/auth/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"oIDAlaBkLyWrqJjHZEFOaQ==","pepper":"m243q2jRdrXoBasSwZJnkw==","hmacKey":"nIX4zyy9efAJrNRHWyYdKA==","o":100141720,"u":"498b16bf-dc92-4501-8f3a-6bc5e02ea16b","p":"starter","i":"590f2b1658096658df45aa50","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources
+[DEBUG]  Ignoring H:\Appcelerator Workspace\Music\Resources\android
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\assets\images\tab1.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\assets\images\tab1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\assets\images\tab1@2x.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\assets\images\tab1@2x.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\assets\images\tab1@3x.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\assets\images\tab1@3x.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\assets\images\tab2.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\assets\images\tab2.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\assets\images\tab2@2x.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\assets\images\tab2@2x.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\assets\images\tab2@3x.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\assets\images\tab2@3x.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\forward-on.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\forward-on.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\forward.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\forward.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\icon_music.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\icon_music.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\MusicImage.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\MusicImage.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\Music_icon.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\Music_icon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\pause-on.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\pause-on.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\pause.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\pause.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\play-button.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\play-button.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\play-on.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\play-on.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\rewind-on.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\rewind-on.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\rewind.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\rewind.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\sstop.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\sstop.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\img\stop-on.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\img\stop-on.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\adnan sami.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\adnan sami.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Arijit Singh Jukeb.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Arijit Singh Jukeb.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Ashkan.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Ashkan.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Ashrafi.mp3 => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Ashrafi.mp3
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Atif Aslam- Pehli Dafa Song.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Atif Aslam- Pehli Dafa Song.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\ebro.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\ebro.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\enrique.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\enrique.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Farhad Darya.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Farhad Darya.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Frugh.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Frugh.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Hamid askri.mp3 => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Hamid askri.mp3
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Hhmad Wand.mp3 => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Hhmad Wand.mp3
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Justin Bieber .m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Justin Bieber .m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Muhsin.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Muhsin.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Murtzaa.mp4 => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Murtzaa.mp4
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Mustafa ceceli.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Mustafa ceceli.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Obaid.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Obaid.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Rahat fate.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Rahat fate.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Rihhana.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Rihhana.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Sandal.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Sandal.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Selena Gomez.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Selena Gomez.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Shafiq M.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Shafiq M.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\shreya ghoshal.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\shreya ghoshal.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Tarkan.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Tarkan.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\Tuvana.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\Tuvana.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\sound\zaya Maalik.m4a => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\sound\zaya Maalik.m4a
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\appicon.png => H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\A.Aa.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\a_aa_eca39f9f24.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\adnan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\adnan_9b310f6b2c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Arijit Singh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\arijit_singh_221c6e456f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Arijit Singh1.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\arijit_singh1_a1fdd69097.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Ashkan Arab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\ashkan_arab_dde8378c9e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Ashrfi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\ashrfi_f31d7391ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Atif Aslam.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\atif_aslam_943888ee6c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\ebro.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\ebro_d057aa94fb.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\enrique-iglesias.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\enrique_iglesias_6763602cb8.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\farhad_darya.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\farhad_darya_9d7e89c648.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Farukh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\farukh_24910c850e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\hAc.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\hac_adaf06c2ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\img.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\img_d10c88f869.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Justin Bieber .png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\justin_bieber__57c981e02e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Justin Bieber1 .png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\justin_bieber1__30d2e07fcc.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\M.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\m_e22748cd53.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Mehdi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\mehdi_527b49a190.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\musen.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\musen_bb66bcbea5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Mustafa cicili.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Mustafa sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\mustafa_sandal_8840970f4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\mustafa_sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\mustafa_sandal_da0c6e765b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Obaid.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\obaid_2f6dc29c32.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Rahat-Fateh-ali-khan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Rihanna Diamonds.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Selena Gomez.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\selena_gomez_a51ae2b6a5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\SH.Ab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\sh_ab_a62c56ea45.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\sh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\sh_1ba9df6dd4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\shereya goshal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\shereya_goshal_4d814e2f5f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\Tarkan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\tarkan_44364bdfe6.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\tovana.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\tovana_4c537b12df.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-hdpi\zayn-malik.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\zayn_malik_a1811fa142.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\A.Aa.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\a_aa_eca39f9f24.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\adnan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\adnan_9b310f6b2c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Arijit Singh1.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\arijit_singh1_a1fdd69097.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Ashkan Arab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\ashkan_arab_dde8378c9e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Ashrfi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\ashrfi_f31d7391ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Atif Aslam.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\atif_aslam_943888ee6c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\ebro.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\ebro_d057aa94fb.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\enrique-iglesias.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\enrique_iglesias_6763602cb8.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\farhad_darya.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\farhad_darya_9d7e89c648.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Farukh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\farukh_24910c850e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\hAc.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\hac_adaf06c2ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\img.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\img_d10c88f869.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Justin Bieber1 .png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\justin_bieber1__30d2e07fcc.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\M.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\m_e22748cd53.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Mehdi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\mehdi_527b49a190.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\musen.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\musen_bb66bcbea5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Mustafa cicili.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Mustafa sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\mustafa_sandal_8840970f4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\mustafa_sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\mustafa_sandal_da0c6e765b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Obaid.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\obaid_2f6dc29c32.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Rahat-Fateh-ali-khan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Rihanna Diamonds.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Selena Gomez.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\selena_gomez_a51ae2b6a5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\SH.Ab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\sh_ab_a62c56ea45.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\sh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\sh_1ba9df6dd4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\shereya goshal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\shereya_goshal_4d814e2f5f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\Tarkan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\tarkan_44364bdfe6.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\tovana.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\tovana_4c537b12df.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-mdpi\zayn-malik.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\zayn_malik_a1811fa142.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\A.Aa.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\a_aa_eca39f9f24.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\adnan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\adnan_9b310f6b2c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Arijit Singh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\arijit_singh_221c6e456f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Ashkan Arab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\ashkan_arab_dde8378c9e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Ashrfi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\ashrfi_f31d7391ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Atif Aslam.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\atif_aslam_943888ee6c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\ebro.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\ebro_d057aa94fb.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\enrique-iglesias.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\enrique_iglesias_6763602cb8.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Farukh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\farukh_24910c850e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\hAc.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\hac_adaf06c2ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\img.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\img_d10c88f869.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Justin Bieber .png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\justin_bieber__57c981e02e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\M.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\m_e22748cd53.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Mehdi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\mehdi_527b49a190.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\musen.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\musen_bb66bcbea5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Mustafa cicili.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Mustafa sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\mustafa_sandal_8840970f4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\mustafa_sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\mustafa_sandal_da0c6e765b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Obaid.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\obaid_2f6dc29c32.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Rahat-Fateh-ali-khan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Rihanna Diamonds.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Selena Gomez.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\selena_gomez_a51ae2b6a5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\SH.Ab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\sh_ab_a62c56ea45.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\sh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\sh_1ba9df6dd4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\shereya goshal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\shereya_goshal_4d814e2f5f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\Tarkan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\tarkan_44364bdfe6.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\tovana.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\tovana_4c537b12df.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xhdpi\zayn-malik.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\zayn_malik_a1811fa142.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\A.Aa.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\a_aa_eca39f9f24.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\adnan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\adnan_9b310f6b2c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Arijit Singh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\arijit_singh_221c6e456f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Ashkan Arab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\ashkan_arab_dde8378c9e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Ashrfi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\ashrfi_f31d7391ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Atif Aslam.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\atif_aslam_943888ee6c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\ebro.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\ebro_d057aa94fb.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\enrique-iglesias.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\enrique_iglesias_6763602cb8.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\farhad_darya.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\farhad_darya_9d7e89c648.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Farukh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\farukh_24910c850e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\hAc.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\hac_adaf06c2ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\img.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\img_d10c88f869.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Justin Bieber .png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\justin_bieber__57c981e02e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\M.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\m_e22748cd53.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Mehdi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\mehdi_527b49a190.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\musen.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\musen_bb66bcbea5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Mustafa cicili.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Mustafa sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\mustafa_sandal_8840970f4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\mustafa_sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\mustafa_sandal_da0c6e765b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\obaid.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\obaid_2f6dc29c32.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Rahat-Fateh-ali-khan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Rihanna Diamonds.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Selena Gomez.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\selena_gomez_a51ae2b6a5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\SH.Ab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\sh_ab_a62c56ea45.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\sh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\sh_1ba9df6dd4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\shereya goshal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\shereya_goshal_4d814e2f5f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\Tarkan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\tarkan_44364bdfe6.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\tovana.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\tovana_4c537b12df.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxhdpi\zayn-malik.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\zayn_malik_a1811fa142.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\A.Aa.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\a_aa_eca39f9f24.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\adnan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\adnan_9b310f6b2c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Arijit Singh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\arijit_singh_221c6e456f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Ashkan Arab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\ashkan_arab_dde8378c9e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Ashrfi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\ashrfi_f31d7391ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Atif Aslam.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\atif_aslam_943888ee6c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\ebro.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\ebro_d057aa94fb.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\enrique-iglesias.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\enrique_iglesias_6763602cb8.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\farhad_darya.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\farhad_darya_9d7e89c648.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Farukh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\farukh_24910c850e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\hAc.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\hac_adaf06c2ae.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\img.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\img_d10c88f869.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Justin Bieber .png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\justin_bieber__57c981e02e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\M.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\m_e22748cd53.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Mehdi.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\mehdi_527b49a190.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\musen.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\musen_bb66bcbea5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Mustafa cicili.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Mustafa sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\mustafa_sandal_8840970f4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\mustafa_sandal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\mustafa_sandal_da0c6e765b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\obaid.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\obaid_2f6dc29c32.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Rahat-Fateh-ali-khan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Rihanna Diamonds.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Selena Gomez.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\selena_gomez_a51ae2b6a5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\SH.Ab.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\sh_ab_a62c56ea45.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\sh.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\sh_1ba9df6dd4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\shereya goshal.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\shereya_goshal_4d814e2f5f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\Tarkan.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\tarkan_44364bdfe6.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\tovana.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\tovana_4c537b12df.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\Resources\android\images\res-xxxhdpi\zayn-malik.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\zayn_malik_a1811fa142.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-hdpi\appicon.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-hdpi\background.9.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-hdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-mdpi\appicon.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-mdpi\background.9.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-mdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-xhdpi\appicon.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-xhdpi\background.9.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-xxhdpi\appicon.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-xxhdpi\background.9.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-xxxhdpi\appicon.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\platform\android\res\drawable-xxxhdpi\background.9.png => H:\Appcelerator Workspace\Music\build\android\res\drawable-xxxhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\build\android\bin\assets\Resources\appicon.png => H:\Appcelerator Workspace\Music\build\android\res\drawable\appicon.png
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\app\default\template\Resources\android\default.png => H:\Appcelerator Workspace\Music\build\android\res\drawable\background.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Music\Resources\Aboutme.js => H:\Appcelerator Workspace\Music\build\android\assets\Aboutme.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Music\Resources\app.js => H:\Appcelerator Workspace\Music\build\android\assets\app.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Music\Resources\Data.js => H:\Appcelerator Workspace\Music\build\android\assets\Data.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Music\Resources\ListMusics.js => H:\Appcelerator Workspace\Music\build\android\assets\ListMusics.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Music\Resources\Playwindow.js => H:\Appcelerator Workspace\Music\build\android\assets\Playwindow.js
+[INFO]   Encrypting JavaScript files: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\titanium_prep.win32.exe "com.cti.music" "H:\Appcelerator Workspace\Music\build\android\assets" "Aboutme.js" "app.js" "Data.js" "ListMusics.js" "Playwindow.js" "_app_props_.json"
+[DEBUG]  32-bit titanium prep failed, trying again using 64-bit
+[INFO]   Encrypting JavaScript files: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\titanium_prep.win64.exe "com.cti.music" "H:\Appcelerator Workspace\Music\build\android\assets" "Aboutme.js" "app.js" "Data.js" "ListMusics.js" "Playwindow.js" "_app_props_.json"
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-v8.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\aps-analytics.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-android.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-common.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\titanium.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-app.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-ui.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-media.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v4.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-locale.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-network.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-xml.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-platform.jar
+[INFO]   Writing H:\Appcelerator Workspace\Music\build\android\bin\assets\app.json
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-analytics.res.zip
+[DEBUG]  Copying C:\Users\Aalem\AppData\Local\Temp\11747-17096-1srlwnj\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-android.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-2fgpq8\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-app.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-1jt84k4\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-filesystem.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-1n0y6ps\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-media.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-293x3y\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-locale.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-1tbj7ob\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-network.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-u0vun0\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-xml.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-h2pc77\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-platform.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\11747-17096-kttvjg\res\values\strings.xml => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\build\AppInfo.java => H:\Appcelerator Workspace\Music\build\android\gen\com\cti\music\MusicAppInfo.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\build\App.java => H:\Appcelerator Workspace\Music\build\android\gen\com\cti\music\MusicApplication.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\build\Activity.java => H:\Appcelerator Workspace\Music\build\android\gen\com\cti\music\MusicActivity.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\build\project => H:\Appcelerator Workspace\Music\build\android\.project
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\build\default.properties => H:\Appcelerator Workspace\Music\build\android\default.properties
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\build\gitignore => H:\Appcelerator Workspace\Music\build\android\.gitignore
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\templates\build\classpath => H:\Appcelerator Workspace\Music\build\android\.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Merging en strings => H:\Appcelerator Workspace\Music\build\android\res\values\strings.xml
+[INFO]   Generating H:\Appcelerator Workspace\Music\build\android\res\values\theme.xml
+[INFO]   Packaging application: I:\AndroidStudio\SDK\build-tools\23.0.3\aapt.exe "package" "-f" "-m" "-J" "H:\Appcelerator Workspace\Music\build\android\gen" "-M" "H:\Appcelerator Workspace\Music\build\android\AndroidManifest.xml" "-A" "H:\Appcelerator Workspace\Music\build\android\bin\assets" "-S" "H:\Appcelerator Workspace\Music\build\android\res" "-I" "I:\AndroidStudio\SDK\platforms\android-23\android.jar" "-F" "H:\Appcelerator Workspace\Music\build\android\bin\app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat" "-S" "C:\Users\Aalem\AppData\Local\Temp\11747-17096-1wvku49/res" "-S" "C:\Users\Aalem\AppData\Local\Temp\11747-17096-anvmni/res"
+[INFO]   Building Java source files: C:\Program Files\Java\jdk1.8.0_111\bin\javac.exe "-J-Xmx256M" "-encoding" "utf8" "-bootclasspath" "I:\AndroidStudio\SDK\platforms\android-23\android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-v8.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\aps-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\jaxen-1.1.1.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\ti-commons-codec-1.3.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-common.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\titanium.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-app.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-ui.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\nineoldandroids-appc-2.4.0.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-filesystem.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-media.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v4.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v7-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-locale.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-network.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-xml.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-platform.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\lib\titanium-verify.jar;R.class;AssetCryptImpl.class;MusicActivity.class;MusicAppInfo.class;MusicApplication.class" "-d" "H:\Appcelerator Workspace\Music\build\android\bin\classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@H:\Appcelerator Workspace\Music\build\android\java-sources.txt"
+[INFO]   Running dexer: C:\Program Files\Java\jdk1.8.0_111\bin\java.exe "-Xmx1024M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=I:\AndroidStudio\SDK\platform-tools" "-jar" "I:\AndroidStudio\SDK\build-tools\23.0.3\lib\dx.jar" "--dex" "--output=H:\Appcelerator Workspace\Music\build\android\bin\classes.dex" "H:\Appcelerator Workspace\Music\build\android\bin\classes" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\lib\titanium-verify.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-v8.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\aps-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-android.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\jaxen-1.1.1.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\ti-commons-codec-1.3.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-common.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\titanium.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-app.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-ui.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\nineoldandroids-appc-2.4.0.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-filesystem.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-media.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v4.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v7-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-locale.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-network.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-xml.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-platform.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing H:\Appcelerator Workspace\Music\build\android\bin\app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Adding assets/Resources/assets/images/tab1.png
+[DEBUG]  Adding assets/Resources/assets/images/tab1@2x.png
+[DEBUG]  Adding assets/Resources/assets/images/tab1@3x.png
+[DEBUG]  Adding assets/Resources/assets/images/tab2.png
+[DEBUG]  Adding assets/Resources/assets/images/tab2@2x.png
+[DEBUG]  Adding assets/Resources/assets/images/tab2@3x.png
+[DEBUG]  Adding assets/Resources/img/MusicImage.png
+[DEBUG]  Adding assets/Resources/img/Music_icon.png
+[DEBUG]  Adding assets/Resources/img/forward-on.png
+[DEBUG]  Adding assets/Resources/img/forward.png
+[DEBUG]  Adding assets/Resources/img/icon_music.png
+[DEBUG]  Adding assets/Resources/img/pause-on.png
+[DEBUG]  Adding assets/Resources/img/pause.png
+[DEBUG]  Adding assets/Resources/img/play-button.png
+[DEBUG]  Adding assets/Resources/img/play-on.png
+[DEBUG]  Adding assets/Resources/img/rewind-on.png
+[DEBUG]  Adding assets/Resources/img/rewind.png
+[DEBUG]  Adding assets/Resources/img/sstop.png
+[DEBUG]  Adding assets/Resources/img/stop-on.png
+[DEBUG]  Adding assets/Resources/sound/Arijit Singh Jukeb.m4a
+[DEBUG]  Adding assets/Resources/sound/Ashkan.m4a
+[DEBUG]  Adding assets/Resources/sound/Ashrafi.mp3
+[DEBUG]  Adding assets/Resources/sound/Atif Aslam- Pehli Dafa Song.m4a
+[DEBUG]  Adding assets/Resources/sound/Farhad Darya.m4a
+[DEBUG]  Adding assets/Resources/sound/Frugh.m4a
+[DEBUG]  Adding assets/Resources/sound/Hamid askri.mp3
+[DEBUG]  Adding assets/Resources/sound/Hhmad Wand.mp3
+[DEBUG]  Adding assets/Resources/sound/Justin Bieber .m4a
+[DEBUG]  Adding assets/Resources/sound/Muhsin.m4a
+[DEBUG]  Adding assets/Resources/sound/Murtzaa.mp4
+[DEBUG]  Adding assets/Resources/sound/Mustafa ceceli.m4a
+[DEBUG]  Adding assets/Resources/sound/Obaid.m4a
+[DEBUG]  Adding assets/Resources/sound/Rahat fate.m4a
+[DEBUG]  Adding assets/Resources/sound/Rihhana.m4a
+[DEBUG]  Adding assets/Resources/sound/Sandal.m4a
+[DEBUG]  Adding assets/Resources/sound/Selena Gomez.m4a
+[DEBUG]  Adding assets/Resources/sound/Shafiq M.m4a
+[DEBUG]  Adding assets/Resources/sound/Tarkan.m4a
+[DEBUG]  Adding assets/Resources/sound/Tuvana.m4a
+[DEBUG]  Adding assets/Resources/sound/adnan sami.m4a
+[DEBUG]  Adding assets/Resources/sound/ebro.m4a
+[DEBUG]  Adding assets/Resources/sound/enrique.m4a
+[DEBUG]  Adding assets/Resources/sound/shreya ghoshal.m4a
+[DEBUG]  Adding assets/Resources/sound/zaya Maalik.m4a
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/a_aa_eca39f9f24.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/adnan_9b310f6b2c.png
+[DEBUG]  Adding res/drawable-hdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/arijit_singh1_a1fdd69097.png
+[DEBUG]  Adding res/drawable-hdpi-v4/arijit_singh_221c6e456f.png
+[DEBUG]  Adding res/drawable-hdpi-v4/ashkan_arab_dde8378c9e.png
+[DEBUG]  Adding res/drawable-hdpi-v4/ashrfi_f31d7391ae.png
+[DEBUG]  Adding res/drawable-hdpi-v4/atif_aslam_943888ee6c.png
+[DEBUG]  Adding res/drawable-hdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/ebro_d057aa94fb.png
+[DEBUG]  Adding res/drawable-hdpi-v4/enrique_iglesias_6763602cb8.png
+[DEBUG]  Adding res/drawable-hdpi-v4/farhad_darya_9d7e89c648.png
+[DEBUG]  Adding res/drawable-hdpi-v4/farukh_24910c850e.png
+[DEBUG]  Adding res/drawable-hdpi-v4/hac_adaf06c2ae.png
+[DEBUG]  Adding res/drawable-hdpi-v4/img_d10c88f869.png
+[DEBUG]  Adding res/drawable-hdpi-v4/justin_bieber1__30d2e07fcc.png
+[DEBUG]  Adding res/drawable-hdpi-v4/justin_bieber__57c981e02e.png
+[DEBUG]  Adding res/drawable-hdpi-v4/m_e22748cd53.png
+[DEBUG]  Adding res/drawable-hdpi-v4/mehdi_527b49a190.png
+[DEBUG]  Adding res/drawable-hdpi-v4/musen_bb66bcbea5.png
+[DEBUG]  Adding res/drawable-hdpi-v4/mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Adding res/drawable-hdpi-v4/mustafa_sandal_8840970f4e.png
+[DEBUG]  Adding res/drawable-hdpi-v4/mustafa_sandal_da0c6e765b.png
+[DEBUG]  Adding res/drawable-hdpi-v4/obaid_2f6dc29c32.png
+[DEBUG]  Adding res/drawable-hdpi-v4/rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Adding res/drawable-hdpi-v4/selena_gomez_a51ae2b6a5.png
+[DEBUG]  Adding res/drawable-hdpi-v4/sh_1ba9df6dd4.png
+[DEBUG]  Adding res/drawable-hdpi-v4/sh_ab_a62c56ea45.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shereya_goshal_4d814e2f5f.png
+[DEBUG]  Adding res/drawable-hdpi-v4/tarkan_44364bdfe6.png
+[DEBUG]  Adding res/drawable-hdpi-v4/tovana_4c537b12df.png
+[DEBUG]  Adding res/drawable-hdpi-v4/zayn_malik_a1811fa142.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/a_aa_eca39f9f24.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/adnan_9b310f6b2c.png
+[DEBUG]  Adding res/drawable-mdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-mdpi-v4/arijit_singh1_a1fdd69097.png
+[DEBUG]  Adding res/drawable-mdpi-v4/ashkan_arab_dde8378c9e.png
+[DEBUG]  Adding res/drawable-mdpi-v4/ashrfi_f31d7391ae.png
+[DEBUG]  Adding res/drawable-mdpi-v4/atif_aslam_943888ee6c.png
+[DEBUG]  Adding res/drawable-mdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/ebro_d057aa94fb.png
+[DEBUG]  Adding res/drawable-mdpi-v4/enrique_iglesias_6763602cb8.png
+[DEBUG]  Adding res/drawable-mdpi-v4/farhad_darya_9d7e89c648.png
+[DEBUG]  Adding res/drawable-mdpi-v4/farukh_24910c850e.png
+[DEBUG]  Adding res/drawable-mdpi-v4/hac_adaf06c2ae.png
+[DEBUG]  Adding res/drawable-mdpi-v4/img_d10c88f869.png
+[DEBUG]  Adding res/drawable-mdpi-v4/justin_bieber1__30d2e07fcc.png
+[DEBUG]  Adding res/drawable-mdpi-v4/m_e22748cd53.png
+[DEBUG]  Adding res/drawable-mdpi-v4/mehdi_527b49a190.png
+[DEBUG]  Adding res/drawable-mdpi-v4/musen_bb66bcbea5.png
+[DEBUG]  Adding res/drawable-mdpi-v4/mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Adding res/drawable-mdpi-v4/mustafa_sandal_8840970f4e.png
+[DEBUG]  Adding res/drawable-mdpi-v4/mustafa_sandal_da0c6e765b.png
+[DEBUG]  Adding res/drawable-mdpi-v4/obaid_2f6dc29c32.png
+[DEBUG]  Adding res/drawable-mdpi-v4/rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Adding res/drawable-mdpi-v4/selena_gomez_a51ae2b6a5.png
+[DEBUG]  Adding res/drawable-mdpi-v4/sh_1ba9df6dd4.png
+[DEBUG]  Adding res/drawable-mdpi-v4/sh_ab_a62c56ea45.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shereya_goshal_4d814e2f5f.png
+[DEBUG]  Adding res/drawable-mdpi-v4/tarkan_44364bdfe6.png
+[DEBUG]  Adding res/drawable-mdpi-v4/tovana_4c537b12df.png
+[DEBUG]  Adding res/drawable-mdpi-v4/zayn_malik_a1811fa142.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/a_aa_eca39f9f24.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/adnan_9b310f6b2c.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/arijit_singh_221c6e456f.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/ashkan_arab_dde8378c9e.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/ashrfi_f31d7391ae.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/atif_aslam_943888ee6c.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/ebro_d057aa94fb.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/enrique_iglesias_6763602cb8.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/farukh_24910c850e.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/hac_adaf06c2ae.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/img_d10c88f869.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/justin_bieber__57c981e02e.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/m_e22748cd53.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/mehdi_527b49a190.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/musen_bb66bcbea5.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/mustafa_sandal_8840970f4e.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/mustafa_sandal_da0c6e765b.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/obaid_2f6dc29c32.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/selena_gomez_a51ae2b6a5.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/sh_1ba9df6dd4.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/sh_ab_a62c56ea45.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shereya_goshal_4d814e2f5f.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/tarkan_44364bdfe6.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/tovana_4c537b12df.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/zayn_malik_a1811fa142.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/a_aa_eca39f9f24.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/adnan_9b310f6b2c.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/arijit_singh_221c6e456f.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/ashkan_arab_dde8378c9e.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/ashrfi_f31d7391ae.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/atif_aslam_943888ee6c.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/ebro_d057aa94fb.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/enrique_iglesias_6763602cb8.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/farhad_darya_9d7e89c648.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/farukh_24910c850e.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/hac_adaf06c2ae.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/img_d10c88f869.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/justin_bieber__57c981e02e.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/m_e22748cd53.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/mehdi_527b49a190.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/musen_bb66bcbea5.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/mustafa_sandal_8840970f4e.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/mustafa_sandal_da0c6e765b.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/obaid_2f6dc29c32.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/selena_gomez_a51ae2b6a5.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/sh_1ba9df6dd4.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/sh_ab_a62c56ea45.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shereya_goshal_4d814e2f5f.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/tarkan_44364bdfe6.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/tovana_4c537b12df.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/zayn_malik_a1811fa142.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/a_aa_eca39f9f24.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/adnan_9b310f6b2c.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/arijit_singh_221c6e456f.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/ashkan_arab_dde8378c9e.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/ashrfi_f31d7391ae.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/atif_aslam_943888ee6c.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/ebro_d057aa94fb.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/enrique_iglesias_6763602cb8.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/farhad_darya_9d7e89c648.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/farukh_24910c850e.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/hac_adaf06c2ae.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/img_d10c88f869.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/justin_bieber__57c981e02e.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/m_e22748cd53.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/mehdi_527b49a190.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/musen_bb66bcbea5.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/mustafa_cicili_de3c1ec57d.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/mustafa_sandal_8840970f4e.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/mustafa_sandal_da0c6e765b.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/obaid_2f6dc29c32.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/rahat_fateh_ali_khan_9692b1eab9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/rihanna_diamonds_7b4fa66fd3.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/selena_gomez_a51ae2b6a5.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/sh_1ba9df6dd4.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/sh_ab_a62c56ea45.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/shereya_goshal_4d814e2f5f.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/tarkan_44364bdfe6.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/tovana_4c537b12df.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/zayn_malik_a1811fa142.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v11/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_simple_dropdown_hint.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating res/layout/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-v8.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\aps-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-android.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\kroll-common.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-app.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-media.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v4.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-locale.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-network.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-xml.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.0.0.GA\android\modules\titanium-platform.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing H:\Appcelerator Workspace\Music\build\android\src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[INFO]   Writing unsigned apk: H:\Appcelerator Workspace\Music\build\android\bin\app-unsigned.apk
+[INFO]   Using SHA1withRSA signature algorithm
+[INFO]   Signing apk: C:\Program Files\Java\jdk1.8.0_111\bin\jarsigner.exe "-sigalg" "SHA1withRSA" "-digestalg" "SHA1" "-keystore" "C:\Users\Aalem\Desktop\Music" "-storepass" "********" "-keypass" "aalem123" "-signedjar" "H:\Appcelerator Workspace\Music\build\android\bin\Music.apk" "H:\Appcelerator Workspace\Music\build\android\bin\app-unsigned.apk" "music"
+[INFO]   Aligning zip file: I:\AndroidStudio\SDK\build-tools\23.0.3\zipalign.exe "-v" "4" "H:\Appcelerator Workspace\Music\build\android\bin\Music.apk" "H:\Appcelerator Workspace\Music\build\android\bin\Music.apkz"
+[INFO]   Writing build manifest: H:\Appcelerator Workspace\Music\build\android\build-manifest.json
+[DEBUG]  Copying H:\Appcelerator Workspace\Music\build\android\bin\Music.apk => C:\Users\Aalem\Desktop\Students' Project APK\Music.apk
+[INFO]   Packaging complete
+[INFO]   Package location: C:\Users\Aalem\Desktop\Students' Project APK\Music.apk
+[TRACE]  updating tiapp metadata with Appcelerator Platform...
+[INFO]   Project built successfully in 1m 43s 783ms
