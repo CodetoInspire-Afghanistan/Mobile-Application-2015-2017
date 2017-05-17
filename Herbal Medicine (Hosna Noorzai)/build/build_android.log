@@ -1,0 +1,1045 @@
+
+5/17/2017, 7:33:41 PM
+
+Operating System
+  Name                        = Microsoft Windows 10 Enterprise
+  Version                     = 10.0.14393
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8376569856
+
+Node.js
+  Node.js Version             = 4.7.0
+  npm Version                 = 2.15.11
+
+Titanium CLI
+  CLI Version                 = 5.0.12
+
+Titanium SDK
+  SDK Version                 = 5.4.0.GA
+  SDK Path                    = C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA
+  Target Platform             = android
+
+Command
+  C:\Program Files\nodejs\node.exe C:\Users\Aalem\.appcelerator\install\6.2.0\package\node_modules\titanium\lib\titanium.js build run --platform android --sdk 5.4.0.GA --log-level trace --project-dir H:\Appcelerator Workspace\Health With Herbal Medicine --deploy-type production --target dist-playstore --android-sdk I:\AndroidStudio\SDK --output-dir C:\Users\Aalem\Desktop\Students' Project APK --api-level 10 --alias CTI --keystore C:\Users\Aalem\Desktop\Keys\CTI_Keystore --store-password aalem123 --key-password aalem123 --no-colors --no-progress-bars --no-prompt --no-banner --prompt-type socket-bundle --prompt-port 61585 --config-file C:\Users\Aalem\AppData\Local\Temp\build-1495033410252.json --no-banner --project-dir H:\Appcelerator Workspace\Health With Herbal Medicine
+
+[DEBUG]  Detecting modules in C:\ProgramData\Application Data\Titanium\modules
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: facebook 5.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\5.0.0
+[DEBUG]  Detected android module: facebook 5.2.0 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\5.2.0
+[DEBUG]  Detected android module: facebook 6.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\6.0.1
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Application Data\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: hyperloop 2.1.0 @ C:\ProgramData\Application Data\Titanium\modules\android\hyperloop\2.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\3.4.1
+[DEBUG]  Detected android module: ti.cloudpush 4.0.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\4.0.3
+[DEBUG]  Detected android module: ti.map 2.3.10 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.10
+[DEBUG]  Detected android module: ti.map 2.3.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.3
+[DEBUG]  Detected android module: ti.map 2.3.6 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.6
+[DEBUG]  Detected android module: ti.map 3.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\3.0.1
+[DEBUG]  Detected android module: ti.touchid 1.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.touchid\1.0.0
+[DEBUG]  Detected android module: ti.touchid 2.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.touchid\2.0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.10
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.11
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.9
+[DEBUG]  Detected windows module: hyperloop 2.1.0 @ C:\ProgramData\Application Data\Titanium\modules\windows\hyperloop\2.1.0
+[DEBUG]  Detecting modules in C:\ProgramData\Titanium\modules
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: facebook 5.0.0 @ C:\ProgramData\Titanium\modules\android\facebook\5.0.0
+[DEBUG]  Detected android module: facebook 5.2.0 @ C:\ProgramData\Titanium\modules\android\facebook\5.2.0
+[DEBUG]  Detected android module: facebook 6.0.1 @ C:\ProgramData\Titanium\modules\android\facebook\6.0.1
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: hyperloop 2.1.0 @ C:\ProgramData\Titanium\modules\android\hyperloop\2.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\3.4.1
+[DEBUG]  Detected android module: ti.cloudpush 4.0.3 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\4.0.3
+[DEBUG]  Detected android module: ti.map 2.3.10 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.10
+[DEBUG]  Detected android module: ti.map 2.3.3 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.3
+[DEBUG]  Detected android module: ti.map 2.3.6 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.6
+[DEBUG]  Detected android module: ti.map 3.0.1 @ C:\ProgramData\Titanium\modules\android\ti.map\3.0.1
+[DEBUG]  Detected android module: ti.touchid 1.0.0 @ C:\ProgramData\Titanium\modules\android\ti.touchid\1.0.0
+[DEBUG]  Detected android module: ti.touchid 2.0.1 @ C:\ProgramData\Titanium\modules\android\ti.touchid\2.0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.10
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.11
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.9
+[DEBUG]  Detected windows module: hyperloop 2.1.0 @ C:\ProgramData\Titanium\modules\windows\hyperloop\2.1.0
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android
+[INFO]   Deploy type: production
+[INFO]   Building for target: dist-playstore
+[INFO]   Targeting Android SDK API: 23
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: C:\Users\Aalem\Desktop\Keys\CTI_Keystore (cti)
+[DEBUG]  App ID: com.cti.herbalmedicine
+[DEBUG]  Classname: HealthWithHerbalMedicine
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: JavaScript files need to be re-encrypted
+[TRACE]  offline build file C:\Users\Aalem\AppData\Local\Temp\build-901e851fc81cebfe4d101e410252169c2b822467.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"aalem.daneshyar@codetoinspire.org","session":"ea97bdb3d58536e9bac3f8165e0ef963fee27a61 rRu7oKfb0TNFoYVS7FdpHwuBGPdXBqM3Qv2hTp90kR843VNTEis6kP8aZa4UnOnJtPv77KN7II6yo7fieK8hfEFyVgkYci9QQNjWjXhzcEBE181zZMc0d82pj47Au8/iUGApYHoHVT98s6WJ8P/jxE3YwOE26OxJy/2oByIXrDhpO0ceJOI52ypP8HRt8ruKq+F/M/MTrn2y3VSs47vd+yOXK2qYO/NJPrQf/KJKGMLFS2tyJhHohDHLUjdld8it87WFsRhfG9o7C+y4zu/G6qWVxv60E6D0DghDgZfCYTmcfZCNckBO33zz7YATPvvYMg3jV+h1kj7UoslR1J7sEBROXKtQkwavD1j37iOCt+pHssbanBrHWRm9Fk4iyiLmTcOgb6Nl+ZRJkz/ISMxyUNQius+N7P5Iam5M7QswmKbTZAIdkyzXXkCQTI6LmViRlmHICwi4PVeeSllN7S9gcMy5DBzuaPMkEHc2kRMSJU17v3CUy2VYMU5X52mTkosWnlRlwD1aS4ftTcB3/qYjta3eWj6ZtSpslcIWIV03Htk1hOiHQQ99y+e639/3/Ula2PvF4A9bD/QTUPrE723YZ708XuWkFFAQRd7uSGiY1snmaLdyICMjcHHwNywKova3kEOa4yjCGIa/YCyvQF8SAMqKvuf4u9krTcGrD6yl8HfkfROFYu0TYvbLB4VsBG1v2wO7r9oGIPscuMZ4Ovh9lggI8P2wYiW+bNP21mE2Y3s=","ipaddress":"192.168.56.1","fingerprint":"b09339d6b7cdf9ad40c31b1bc09849628a136422","fingerprint_description":"Windows Machine ID: e417d1a3-f162-42d1-b26b-348e3b829434","guid":"35b3c9ef-ae55-43b7-9111-4948cee563a2","appid":"com.cti.herbalmedicine","name":"Health With Herbal Medicine","org_id":100141720,"deploytype":"production","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>com.cti.herbalmedicine</id>\n  <name>Health With Herbal Medicine</name>\n  <version>1.0</version>\n  <publisher>Aalem</publisher>\n  <url>http://www.codetoinspire.org</url>\n  <description/>\n  <copyright>2017 by Aalem</copyright>\n  <icon>appicon.png</icon>\n  <fullscreen>false</fullscreen>\n  <navbar-hidden>false</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>35b3c9ef-ae55-43b7-9111-4948cee563a2</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <property name=\"run-on-main-thread\" type=\"bool\">***</property>\n  <ios>\n    <enable-launch-screen-storyboard>true</enable-launch-screen-storyboard>\n    <use-app-thinning>true</use-app-thinning>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleDefault</string>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\"/>\n    <mobileweb>\n      <precache/>\n      <splash>\n        <enabled>true</enabled>\n        <inline-css-images>true</inline-css-images>\n      </splash>\n      <theme>default</theme>\n    </mobileweb>\n    <modules/>\n    <deployment-targets>\n      <target device=\"iphone\">false</target>\n      <target device=\"ipad\">false</target>\n      <target device=\"android\">true</target>\n      <target device=\"mobileweb\">false</target>\n      <target device=\"windows\">false</target>\n    </deployment-targets>\n    <sdk-version>5.4.0.GA</sdk-version>\n    <property name=\"appc-app-id\" type=\"string\">591bf65f3a5d9d3a751c4800</property>\n  </ti:app>","modules":[]},"gzip":true,"followAllRedirects":true,"url":"https://platform.appcelerator.com/api/v1/auth/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"XddDPZ3+y1ZmeHoAotfRoA==","pepper":"C6lhqQjZM1Dqz99TODxRnw==","hmacKey":"P5xZSwPoeZ9vq/+NjT8jMA==","o":100141720,"u":"498b16bf-dc92-4501-8f3a-6bc5e02ea16b","p":"starter","i":"591c6651c5e6373a8ec98466","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources
+[DEBUG]  Ignoring H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\assets\Drugs.sqlite
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\assets\Drugs.sqlite => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\assets\Drugs.sqlite
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\anemia.jpeg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\anemia.jpeg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\anemia.jpeg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\anemia.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\anemia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\anemia.png
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\anti-aging.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\anti-aging.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\anti-aging.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\antibiotics.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\antibiotics.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\antibiotics.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\bloodSugar.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\bloodSugar.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\bloodSugar.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\bloodThinners.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\bloodThinners.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\bloodThinners.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\borage-oil.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\borage-oil.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\borage-oil.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\borage.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\borage.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\borage.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\cancer.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\cancer.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\cancer.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\cinnamon.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\cinnamon.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\cinnamon.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\cough.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\cough.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\cough.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\depression.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\depression.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\depression.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\diabetes.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\diabetes.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\diabetes.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\fennel.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\fennel.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\fennel.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\fleawort.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\fleawort.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\fleawort.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\frankincense.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\frankincense.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\frankincense.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\grape-seed.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\grape-seed.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\grape-seed.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\h.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\h.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\h.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\hedge-mustard-syrup.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\hedge-mustard-syrup.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\hedge-mustard-syrup.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\hedge-mustard.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\hedge-mustard.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\hedge-mustard.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\herbalTea.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\herbalTea.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\herbalTea.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\herbs.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\herbs.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\herbs.png
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\herbs1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\herbs1.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\herbs1.png
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\impotence.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\impotence.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\impotence.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\insomnia.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\insomnia.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\insomnia.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\jujube.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\jujube.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\jujube.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\mallow.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\mallow.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\mallow.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\manna.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\manna.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\manna.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\memoryImprovement.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\memoryImprovement.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\memoryImprovement.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\plantain.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\plantain.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\plantain.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\sedative.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\sedative.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\sedative.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\sidr.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\sidr.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\sidr.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\stomachache.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\stomachache.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\stomachache.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\sweat-mint.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\sweat-mint.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\sweat-mint.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\terminalia-chebula.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\terminalia-chebula.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\terminalia-chebula.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\throatInfection.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\throatInfection.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\throatInfection.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\toothache.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\toothache.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\toothache.jpg
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\turmeric.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\image\turmeric.jpg => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\image\turmeric.jpg
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android
+[WARN]   Overwriting file H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\appicon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\anemia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\anemia_9c80e40739.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\anti-aging.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\anti_aging_416503c541.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\antibiotics.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\antibiotics_ffbfc3b989.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\bloodSugar.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\bloodsugar_5b2d51d1f5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\bloodThinners.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\bloodthinners_62b67f4387.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\borage-oil.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\borage_oil_1d8c481259.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\borage.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\borage_d74120737c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\cancer.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\cancer_8f5610cfa3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\cinnamon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\cinnamon_27aea7cb1a.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\cough.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\cough_81d376b8e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\depression.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\depression_26db0397a3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\diabetes.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\diabetes_ff0f6758e2.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\fannel.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\fannel_609398081b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\fleawort.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\fleawort_8b033fb507.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\frankincense.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\frankincense_7ff413fa4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\grape-seed.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\grape_seed_2ff4cdab2e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\hedge-mustard-syrup.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\hedge-mustard.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\hedge_mustard_bf54071d95.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\herbalTea.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\herbaltea_b1340a144c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\impotence.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\impotence_0c43600ccf.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\insomnia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\insomnia_55db475b67.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\jujube.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\jujube_bb84d4f946.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\mallow.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\mallow_fa69139fea.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\manna.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\manna_671d3b3388.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\memoryImprovement.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\plantain.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\plantain_be5b990ce9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\sedative.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\sedative_9abfbbbef1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\sidr.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\sidr_a3519619b1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\stomachache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\stomachache_8e970a8a65.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\sweat-mint.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\terminalia-chebula.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\terminalia_chebula_928307b9b7.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\throatInfection.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\throatinfection_a1c71d6263.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\toothache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\toothache_5b3447194f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-hdpi\turmeric.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\turmeric_ac9240d7e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\anemia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\anemia_9c80e40739.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\anti-aging.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\anti_aging_416503c541.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\antibiotics.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\antibiotics_ffbfc3b989.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\bloodSugar.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\bloodsugar_5b2d51d1f5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\bloodThinners.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\bloodthinners_62b67f4387.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\borage-oil.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\borage_oil_1d8c481259.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\borage.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\borage_d74120737c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\cancer.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\cancer_8f5610cfa3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\cinnamon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\cinnamon_27aea7cb1a.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\cough.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\cough_81d376b8e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\depression.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\depression_26db0397a3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\diabetes.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\diabetes_ff0f6758e2.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\fannel.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\fannel_609398081b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\fleawort.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\fleawort_8b033fb507.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\frankincense.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\frankincense_7ff413fa4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\grape-seed.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\grape_seed_2ff4cdab2e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\hedge-mustard-syrup.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\hedge-mustard.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\hedge_mustard_bf54071d95.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\herbalTea.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\herbaltea_b1340a144c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\impotence.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\impotence_0c43600ccf.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\insomnia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\insomnia_55db475b67.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\jujube.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\jujube_bb84d4f946.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\mallow.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\mallow_fa69139fea.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\manna.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\manna_671d3b3388.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\memoryImprovement.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\plantain.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\plantain_be5b990ce9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\sedative.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\sedative_9abfbbbef1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\sidr.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\sidr_a3519619b1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\stomachache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\stomachache_8e970a8a65.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\sweat-mint.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\terminalia-chebula.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\terminalia_chebula_928307b9b7.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\throatInfection.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\throatinfection_a1c71d6263.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\toothache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\toothache_5b3447194f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-mdpi\turmeric.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\turmeric_ac9240d7e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\anemia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\anemia_9c80e40739.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\anti-aging.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\anti_aging_416503c541.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\antibiotics.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\antibiotics_ffbfc3b989.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\bloodSugar.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\bloodsugar_5b2d51d1f5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\bloodThinners.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\bloodthinners_62b67f4387.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\borage-oil.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\borage_oil_1d8c481259.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\borage.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\borage_d74120737c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\cancer.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\cancer_8f5610cfa3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\cinnamon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\cinnamon_27aea7cb1a.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\cough.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\cough_81d376b8e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\depression.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\depression_26db0397a3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\diabetes.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\diabetes_ff0f6758e2.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\fennel.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\fennel_a1c086dbb7.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\fleawort.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\fleawort_8b033fb507.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\frankincense.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\frankincense_7ff413fa4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\grape-seed.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\grape_seed_2ff4cdab2e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\hedge-mustard-syrup.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\hedge-mustard.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\hedge_mustard_bf54071d95.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\herbalTea.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\herbaltea_b1340a144c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\impotence.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\impotence_0c43600ccf.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\insomnia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\insomnia_55db475b67.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\jujube.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\jujube_bb84d4f946.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\mallow.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\mallow_fa69139fea.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\manna.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\manna_671d3b3388.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\memoryImprovement.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\plantain.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\plantain_be5b990ce9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\sedative.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\sedative_9abfbbbef1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\sidr.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\sidr_a3519619b1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\stomachache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\stomachache_8e970a8a65.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\sweat-mint.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\terminalia-chebula.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\terminalia_chebula_928307b9b7.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\throatInfection.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\throatinfection_a1c71d6263.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\toothache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\toothache_5b3447194f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xhdpi\turmeric.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\turmeric_ac9240d7e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\anemia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\anemia_9c80e40739.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\anti-aging.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\anti_aging_416503c541.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\antibiotics.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\antibiotics_ffbfc3b989.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\bloodSugar.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\bloodsugar_5b2d51d1f5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\bloodThinners.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\bloodthinners_62b67f4387.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\borage-oil.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\borage_oil_1d8c481259.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\borage.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\borage_d74120737c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\cancer.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\cancer_8f5610cfa3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\cinnamon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\cinnamon_27aea7cb1a.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\cough.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\cough_81d376b8e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\depression.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\depression_26db0397a3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\diabetes.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\diabetes_ff0f6758e2.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\fannel.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\fannel_609398081b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\fleawort.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\fleawort_8b033fb507.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\frankincense.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\frankincense_7ff413fa4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\grape-seed.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\grape_seed_2ff4cdab2e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\hedge-mustard-syrup.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\hedge-mustard.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\hedge_mustard_bf54071d95.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\herbalTea.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\herbaltea_b1340a144c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\impotence.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\impotence_0c43600ccf.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\insomnia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\insomnia_55db475b67.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\jujube.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\jujube_bb84d4f946.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\mallow.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\mallow_fa69139fea.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\manna.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\manna_671d3b3388.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\memoryImprovement.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\plantain.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\plantain_be5b990ce9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\sedative.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\sedative_9abfbbbef1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\sidr.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\sidr_a3519619b1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\stomachache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\stomachache_8e970a8a65.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\sweat-mint.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\terminalia-chebula.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\terminalia_chebula_928307b9b7.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\throatInfection.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\throatinfection_a1c71d6263.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\toothache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\toothache_5b3447194f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxhdpi\turmeric.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\turmeric_ac9240d7e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\anemia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\anemia_9c80e40739.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\anti-aging.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\anti_aging_416503c541.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\antibiotics.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\antibiotics_ffbfc3b989.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\bloodSugar.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\bloodsugar_5b2d51d1f5.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\bloodThinners.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\bloodthinners_62b67f4387.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\borage-oil.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\borage_oil_1d8c481259.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\borage.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\borage_d74120737c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\cancer .png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\cancer__1b93390102.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\cinnamon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\cinnamon_27aea7cb1a.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\cough.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\cough_81d376b8e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\depression.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\depression_26db0397a3.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\diabetes.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\diabetes_ff0f6758e2.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\fannel.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\fannel_609398081b.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\fleawort.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\fleawort_8b033fb507.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\frankincense.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\frankincense_7ff413fa4e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\grape-seed.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\grape_seed_2ff4cdab2e.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\hedge-mustard-syrup.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\hedge-mustard.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\hedge_mustard_bf54071d95.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\herbalTea.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\herbaltea_b1340a144c.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\impotence.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\impotence_0c43600ccf.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\insomnia.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\insomnia_55db475b67.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\jujube.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\jujube_bb84d4f946.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\mallow.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\mallow_fa69139fea.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\manna.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\manna_671d3b3388.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\memoryImprovement.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\plantain.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\plantain_be5b990ce9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\sedative.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\sedative_9abfbbbef1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\sidr.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\sidr_a3519619b1.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\stomachache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\stomachache_8e970a8a65.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\sweat-mint.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\terminalia-chebula.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\terminalia_chebula_928307b9b7.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\throatInfection.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\throatinfection_a1c71d6263.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\toothache.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\toothache_5b3447194f.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\android\images\res-xxxhdpi\turmeric.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\turmeric_ac9240d7e4.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-hdpi\appicon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-hdpi\background.9.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-hdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-mdpi\appicon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-mdpi\background.9.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-mdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-xhdpi\appicon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-xhdpi\background.9.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-xxhdpi\appicon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-xxhdpi\background.9.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-xxxhdpi\appicon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\platform\android\res\drawable-xxxhdpi\background.9.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable-xxxhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\Resources\appicon.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable\appicon.png
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\app\default\template\Resources\android\default.png => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\drawable\background.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\about.js => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\assets\about.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\app.js => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\assets\app.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\definition.js => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\assets\definition.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\drug.js => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\assets\drug.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Health With Herbal Medicine\Resources\sickness.js => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\assets\sickness.js
+[INFO]   Encrypting JavaScript files: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium_prep.win32.exe "com.cti.herbalmedicine" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\assets" "about.js" "app.js" "definition.js" "drug.js" "sickness.js" "_app_props_.json"
+[DEBUG]  32-bit titanium prep failed, trying again using 64-bit
+[INFO]   Encrypting JavaScript files: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium_prep.win64.exe "com.cti.herbalmedicine" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\assets" "about.js" "app.js" "definition.js" "drug.js" "sickness.js" "_app_props_.json"
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar
+[DEBUG]  Unknown namespace android.r.drawable, skipping
+[DEBUG]  Unknown namespace android.r, skipping
+[INFO]   Writing H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets\app.json
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.res.zip
+[DEBUG]  Copying C:\Users\Aalem\AppData\Local\Temp\117417-18732-sopllk\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-14ilp2w\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-z8rpu8\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-7awuuo\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-1pnbnrw\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-59uz8f\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-1c5m6eu\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-u17d2z\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-1a609q5\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117417-18732-1cd7q1f\res\values\strings.xml => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\.classpath
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\.gitignore
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\.project
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\AndroidManifest.xml
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\default.properties
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\java-sources.txt
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\AppInfo.java => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\gen\com\cti\herbalmedicine\HealthWithHerbalMedicineAppInfo.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\App.java => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\gen\com\cti\herbalmedicine\HealthWithHerbalMedicineApplication.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\Activity.java => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\gen\com\cti\herbalmedicine\HealthWithHerbalMedicineActivity.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\project => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\.project
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\default.properties => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\default.properties
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\gitignore => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\.gitignore
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\classpath => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Merging en strings => H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\strings.xml
+[INFO]   Generating H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res\values\theme.xml
+[INFO]   Packaging application: I:\AndroidStudio\SDK\build-tools\23.0.3\aapt.exe "package" "-f" "-m" "-J" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\gen" "-M" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\AndroidManifest.xml" "-A" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\assets" "-S" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\res" "-I" "I:\AndroidStudio\SDK\platforms\android-23\android.jar" "-F" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:android.support.v7.cardview" "-S" "C:\Users\Aalem\AppData\Local\Temp\117417-18732-g95lsy/res" "-S" "C:\Users\Aalem\AppData\Local\Temp\117417-18732-1mp4xu0/res" "-S" "C:\Users\Aalem\AppData\Local\Temp\117417-18732-10tj7zt/res"
+[INFO]   Building Java source files: C:\Program Files\Java\jdk1.8.0_111\bin\javac.exe "-J-Xmx1024M" "-encoding" "utf8" "-bootclasspath" "I:\AndroidStudio\SDK\platforms\android-23\android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\lib\titanium-verify.jar;R.class;AssetCryptImpl.class;HealthWithHerbalMedicineActivity.class;HealthWithHerbalMedicineAppInfo.class;HealthWithHerbalMedicineApplication.class" "-d" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\java-sources.txt"
+[INFO]   Running dexer: C:\Program Files\Java\jdk1.8.0_111\bin\java.exe "-Xmx1024M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=I:\AndroidStudio\SDK\platform-tools" "-jar" "I:\AndroidStudio\SDK\build-tools\23.0.3\lib\dx.jar" "--dex" "--output=H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\classes.dex" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\classes" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\lib\titanium-verify.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Deflating assets/Resources/assets/Drugs.sqlite
+[DEBUG]  Adding assets/Resources/image/anemia.jpeg
+[DEBUG]  Adding assets/Resources/image/anemia.png
+[DEBUG]  Adding assets/Resources/image/anti-aging.jpg
+[DEBUG]  Adding assets/Resources/image/antibiotics.jpg
+[DEBUG]  Adding assets/Resources/image/bloodSugar.jpg
+[DEBUG]  Adding assets/Resources/image/bloodThinners.jpg
+[DEBUG]  Adding assets/Resources/image/borage-oil.jpg
+[DEBUG]  Adding assets/Resources/image/borage.jpg
+[DEBUG]  Adding assets/Resources/image/cancer.jpg
+[DEBUG]  Adding assets/Resources/image/cinnamon.jpg
+[DEBUG]  Adding assets/Resources/image/cough.jpg
+[DEBUG]  Adding assets/Resources/image/depression.jpg
+[DEBUG]  Adding assets/Resources/image/diabetes.jpg
+[DEBUG]  Adding assets/Resources/image/fennel.jpg
+[DEBUG]  Adding assets/Resources/image/fleawort.jpg
+[DEBUG]  Adding assets/Resources/image/frankincense.jpg
+[DEBUG]  Adding assets/Resources/image/grape-seed.jpg
+[DEBUG]  Adding assets/Resources/image/h.jpg
+[DEBUG]  Adding assets/Resources/image/hedge-mustard-syrup.jpg
+[DEBUG]  Adding assets/Resources/image/hedge-mustard.jpg
+[DEBUG]  Adding assets/Resources/image/herbalTea.jpg
+[DEBUG]  Adding assets/Resources/image/herbs.png
+[DEBUG]  Adding assets/Resources/image/herbs1.png
+[DEBUG]  Adding assets/Resources/image/impotence.jpg
+[DEBUG]  Adding assets/Resources/image/insomnia.jpg
+[DEBUG]  Adding assets/Resources/image/jujube.jpg
+[DEBUG]  Adding assets/Resources/image/mallow.jpg
+[DEBUG]  Adding assets/Resources/image/manna.jpg
+[DEBUG]  Adding assets/Resources/image/memoryImprovement.jpg
+[DEBUG]  Adding assets/Resources/image/plantain.jpg
+[DEBUG]  Adding assets/Resources/image/sedative.jpg
+[DEBUG]  Adding assets/Resources/image/sidr.jpg
+[DEBUG]  Adding assets/Resources/image/stomachache.jpg
+[DEBUG]  Adding assets/Resources/image/sweat-mint.jpg
+[DEBUG]  Adding assets/Resources/image/terminalia-chebula.jpg
+[DEBUG]  Adding assets/Resources/image/throatInfection.jpg
+[DEBUG]  Adding assets/Resources/image/toothache.jpg
+[DEBUG]  Adding assets/Resources/image/turmeric.jpg
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color-v23/abc_color_highlight_material.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/anemia_9c80e40739.png
+[DEBUG]  Adding res/drawable-hdpi-v4/anti_aging_416503c541.png
+[DEBUG]  Adding res/drawable-hdpi-v4/antibiotics_ffbfc3b989.png
+[DEBUG]  Adding res/drawable-hdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/bloodsugar_5b2d51d1f5.png
+[DEBUG]  Adding res/drawable-hdpi-v4/bloodthinners_62b67f4387.png
+[DEBUG]  Adding res/drawable-hdpi-v4/borage_d74120737c.png
+[DEBUG]  Adding res/drawable-hdpi-v4/borage_oil_1d8c481259.png
+[DEBUG]  Adding res/drawable-hdpi-v4/cancer_8f5610cfa3.png
+[DEBUG]  Adding res/drawable-hdpi-v4/cinnamon_27aea7cb1a.png
+[DEBUG]  Adding res/drawable-hdpi-v4/cough_81d376b8e4.png
+[DEBUG]  Adding res/drawable-hdpi-v4/depression_26db0397a3.png
+[DEBUG]  Adding res/drawable-hdpi-v4/diabetes_ff0f6758e2.png
+[DEBUG]  Adding res/drawable-hdpi-v4/fannel_609398081b.png
+[DEBUG]  Adding res/drawable-hdpi-v4/fleawort_8b033fb507.png
+[DEBUG]  Adding res/drawable-hdpi-v4/frankincense_7ff413fa4e.png
+[DEBUG]  Adding res/drawable-hdpi-v4/grape_seed_2ff4cdab2e.png
+[DEBUG]  Adding res/drawable-hdpi-v4/hedge_mustard_bf54071d95.png
+[DEBUG]  Adding res/drawable-hdpi-v4/hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Adding res/drawable-hdpi-v4/herbaltea_b1340a144c.png
+[DEBUG]  Adding res/drawable-hdpi-v4/impotence_0c43600ccf.png
+[DEBUG]  Adding res/drawable-hdpi-v4/insomnia_55db475b67.png
+[DEBUG]  Adding res/drawable-hdpi-v4/jujube_bb84d4f946.png
+[DEBUG]  Adding res/drawable-hdpi-v4/mallow_fa69139fea.png
+[DEBUG]  Adding res/drawable-hdpi-v4/manna_671d3b3388.png
+[DEBUG]  Adding res/drawable-hdpi-v4/memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Adding res/drawable-hdpi-v4/plantain_be5b990ce9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/sedative_9abfbbbef1.png
+[DEBUG]  Adding res/drawable-hdpi-v4/sidr_a3519619b1.png
+[DEBUG]  Adding res/drawable-hdpi-v4/stomachache_8e970a8a65.png
+[DEBUG]  Adding res/drawable-hdpi-v4/sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Adding res/drawable-hdpi-v4/terminalia_chebula_928307b9b7.png
+[DEBUG]  Adding res/drawable-hdpi-v4/throatinfection_a1c71d6263.png
+[DEBUG]  Adding res/drawable-hdpi-v4/toothache_5b3447194f.png
+[DEBUG]  Adding res/drawable-hdpi-v4/turmeric_ac9240d7e4.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/anemia_9c80e40739.png
+[DEBUG]  Adding res/drawable-mdpi-v4/anti_aging_416503c541.png
+[DEBUG]  Adding res/drawable-mdpi-v4/antibiotics_ffbfc3b989.png
+[DEBUG]  Adding res/drawable-mdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-mdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/bloodsugar_5b2d51d1f5.png
+[DEBUG]  Adding res/drawable-mdpi-v4/bloodthinners_62b67f4387.png
+[DEBUG]  Adding res/drawable-mdpi-v4/borage_d74120737c.png
+[DEBUG]  Adding res/drawable-mdpi-v4/borage_oil_1d8c481259.png
+[DEBUG]  Adding res/drawable-mdpi-v4/cancer_8f5610cfa3.png
+[DEBUG]  Adding res/drawable-mdpi-v4/cinnamon_27aea7cb1a.png
+[DEBUG]  Adding res/drawable-mdpi-v4/cough_81d376b8e4.png
+[DEBUG]  Adding res/drawable-mdpi-v4/depression_26db0397a3.png
+[DEBUG]  Adding res/drawable-mdpi-v4/diabetes_ff0f6758e2.png
+[DEBUG]  Adding res/drawable-mdpi-v4/fannel_609398081b.png
+[DEBUG]  Adding res/drawable-mdpi-v4/fleawort_8b033fb507.png
+[DEBUG]  Adding res/drawable-mdpi-v4/frankincense_7ff413fa4e.png
+[DEBUG]  Adding res/drawable-mdpi-v4/grape_seed_2ff4cdab2e.png
+[DEBUG]  Adding res/drawable-mdpi-v4/hedge_mustard_bf54071d95.png
+[DEBUG]  Adding res/drawable-mdpi-v4/hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Adding res/drawable-mdpi-v4/herbaltea_b1340a144c.png
+[DEBUG]  Adding res/drawable-mdpi-v4/impotence_0c43600ccf.png
+[DEBUG]  Adding res/drawable-mdpi-v4/insomnia_55db475b67.png
+[DEBUG]  Adding res/drawable-mdpi-v4/jujube_bb84d4f946.png
+[DEBUG]  Adding res/drawable-mdpi-v4/mallow_fa69139fea.png
+[DEBUG]  Adding res/drawable-mdpi-v4/manna_671d3b3388.png
+[DEBUG]  Adding res/drawable-mdpi-v4/memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Adding res/drawable-mdpi-v4/plantain_be5b990ce9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/sedative_9abfbbbef1.png
+[DEBUG]  Adding res/drawable-mdpi-v4/sidr_a3519619b1.png
+[DEBUG]  Adding res/drawable-mdpi-v4/stomachache_8e970a8a65.png
+[DEBUG]  Adding res/drawable-mdpi-v4/sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Adding res/drawable-mdpi-v4/terminalia_chebula_928307b9b7.png
+[DEBUG]  Adding res/drawable-mdpi-v4/throatinfection_a1c71d6263.png
+[DEBUG]  Adding res/drawable-mdpi-v4/toothache_5b3447194f.png
+[DEBUG]  Adding res/drawable-mdpi-v4/turmeric_ac9240d7e4.png
+[DEBUG]  Deflating res/drawable-v21/abc_action_bar_item_background_material.xml
+[DEBUG]  Deflating res/drawable-v21/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable-v23/abc_control_background_material.xml
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/anemia_9c80e40739.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/anti_aging_416503c541.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/antibiotics_ffbfc3b989.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/bloodsugar_5b2d51d1f5.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/bloodthinners_62b67f4387.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/borage_d74120737c.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/borage_oil_1d8c481259.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/cancer_8f5610cfa3.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/cinnamon_27aea7cb1a.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/cough_81d376b8e4.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/depression_26db0397a3.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/diabetes_ff0f6758e2.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/fennel_a1c086dbb7.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/fleawort_8b033fb507.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/frankincense_7ff413fa4e.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/grape_seed_2ff4cdab2e.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/hedge_mustard_bf54071d95.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/herbaltea_b1340a144c.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/impotence_0c43600ccf.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/insomnia_55db475b67.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/jujube_bb84d4f946.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/mallow_fa69139fea.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/manna_671d3b3388.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/plantain_be5b990ce9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/sedative_9abfbbbef1.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/sidr_a3519619b1.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/stomachache_8e970a8a65.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/terminalia_chebula_928307b9b7.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/throatinfection_a1c71d6263.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/toothache_5b3447194f.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/turmeric_ac9240d7e4.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/anemia_9c80e40739.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/anti_aging_416503c541.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/antibiotics_ffbfc3b989.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/bloodsugar_5b2d51d1f5.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/bloodthinners_62b67f4387.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/borage_d74120737c.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/borage_oil_1d8c481259.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/cancer_8f5610cfa3.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/cinnamon_27aea7cb1a.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/cough_81d376b8e4.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/depression_26db0397a3.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/diabetes_ff0f6758e2.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/fannel_609398081b.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/fleawort_8b033fb507.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/frankincense_7ff413fa4e.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/grape_seed_2ff4cdab2e.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/hedge_mustard_bf54071d95.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/herbaltea_b1340a144c.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/impotence_0c43600ccf.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/insomnia_55db475b67.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/jujube_bb84d4f946.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/mallow_fa69139fea.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/manna_671d3b3388.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/plantain_be5b990ce9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/sedative_9abfbbbef1.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/sidr_a3519619b1.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/stomachache_8e970a8a65.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/terminalia_chebula_928307b9b7.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/throatinfection_a1c71d6263.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/toothache_5b3447194f.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/turmeric_ac9240d7e4.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/anemia_9c80e40739.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/anti_aging_416503c541.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/antibiotics_ffbfc3b989.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/bloodsugar_5b2d51d1f5.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/bloodthinners_62b67f4387.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/borage_d74120737c.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/borage_oil_1d8c481259.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/cancer__1b93390102.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/cinnamon_27aea7cb1a.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/cough_81d376b8e4.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/depression_26db0397a3.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/diabetes_ff0f6758e2.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/fannel_609398081b.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/fleawort_8b033fb507.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/frankincense_7ff413fa4e.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/grape_seed_2ff4cdab2e.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/hedge_mustard_bf54071d95.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/hedge_mustard_syrup_34916a2aac.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/herbaltea_b1340a144c.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/impotence_0c43600ccf.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/insomnia_55db475b67.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/jujube_bb84d4f946.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/mallow_fa69139fea.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/manna_671d3b3388.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/memoryimprovement_ef3c16ce3d.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/plantain_be5b990ce9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/sedative_9abfbbbef1.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/sidr_a3519619b1.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/stomachache_8e970a8a65.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/sweat_mint_b1eb5e5fe4.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/terminalia_chebula_928307b9b7.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/throatinfection_a1c71d6263.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/toothache_5b3447194f.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/turmeric_ac9240d7e4.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_seekbar_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_seekbar_track_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_text_cursor_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_button_bar_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_lines.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout-v17/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout-v17/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_button_bar_material.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/notification_media_action.xml
+[DEBUG]  Deflating res/layout/notification_media_cancel_action.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout/notification_template_lines.xml
+[DEBUG]  Deflating res/layout/notification_template_media.xml
+[DEBUG]  Deflating res/layout/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating res/layout/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[INFO]   Writing unsigned apk: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\app-unsigned.apk
+[INFO]   Using SHA1withRSA signature algorithm
+[INFO]   Signing apk: C:\Program Files\Java\jdk1.8.0_111\bin\jarsigner.exe "-sigalg" "SHA1withRSA" "-digestalg" "SHA1" "-keystore" "C:\Users\Aalem\Desktop\Keys\CTI_Keystore" "-storepass" "********" "-keypass" "aalem123" "-signedjar" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\Health With Herbal Medicine.apk" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\app-unsigned.apk" "cti"
+[INFO]   Aligning zip file: I:\AndroidStudio\SDK\build-tools\23.0.3\zipalign.exe "-v" "4" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\Health With Herbal Medicine.apk" "H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\Health With Herbal Medicine.apkz"
+[INFO]   Writing build manifest: H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\build-manifest.json
+[DEBUG]  Copying H:\Appcelerator Workspace\Health With Herbal Medicine\build\android\bin\Health With Herbal Medicine.apk => C:\Users\Aalem\Desktop\Students' Project APK\Health With Herbal Medicine.apk
+[INFO]   Packaging complete
+[INFO]   Package location: C:\Users\Aalem\Desktop\Students' Project APK\Health With Herbal Medicine.apk
+[TRACE]  updating tiapp metadata with Appcelerator Platform...
+[INFO]   Project built successfully in 1m 16s 333ms
