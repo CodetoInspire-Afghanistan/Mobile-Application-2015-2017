@@ -1,8 +1,0 @@
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/android/support/v7/appcompat/R.java"
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/android/support/v7/cardview/R.java"
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/com/cti/herbalmedicine/AssetCryptImpl.java"
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/com/cti/herbalmedicine/HealthWithHerbalMedicineActivity.java"
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/com/cti/herbalmedicine/HealthWithHerbalMedicineAppInfo.java"
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/com/cti/herbalmedicine/HealthWithHerbalMedicineApplication.java"
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/com/cti/herbalmedicine/R.java"
-"H:/Appcelerator Workspace/Health With Herbal Medicine/build/android/gen/ti/modules/titanium/ui/R.java"

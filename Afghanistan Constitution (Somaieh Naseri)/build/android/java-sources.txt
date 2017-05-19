@@ -1,0 +1,8 @@
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/android/support/v7/appcompat/R.java"
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/android/support/v7/cardview/R.java"
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/com/cti/afghanistanconstitution/AfghanistanConstitutionActivity.java"
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/com/cti/afghanistanconstitution/AfghanistanConstitutionAppInfo.java"
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/com/cti/afghanistanconstitution/AfghanistanConstitutionApplication.java"
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/com/cti/afghanistanconstitution/AssetCryptImpl.java"
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/com/cti/afghanistanconstitution/R.java"
+"H:/Appcelerator Workspace/Afghanistan Constitution/build/android/gen/ti/modules/titanium/ui/R.java"

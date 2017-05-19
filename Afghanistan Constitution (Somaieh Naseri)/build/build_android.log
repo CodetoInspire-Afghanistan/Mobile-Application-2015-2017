@@ -1,0 +1,595 @@
+
+5/19/2017, 4:19:02 PM
+
+Operating System
+  Name                        = Microsoft Windows 10 Enterprise
+  Version                     = 10.0.14393
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8376569856
+
+Node.js
+  Node.js Version             = 4.7.0
+  npm Version                 = 2.15.11
+
+Titanium CLI
+  CLI Version                 = 5.0.12
+
+Titanium SDK
+  SDK Version                 = 5.4.0.GA
+  SDK Path                    = C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA
+  Target Platform             = android
+
+Command
+  C:\Program Files\nodejs\node.exe C:\Users\Aalem\.appcelerator\install\6.2.0\package\node_modules\titanium\lib\titanium.js build run --platform android --sdk 5.4.0.GA --log-level trace --project-dir H:\Appcelerator Workspace\Afghanistan Constitution --deploy-type production --target dist-playstore --android-sdk I:\AndroidStudio\SDK --output-dir C:\Users\Aalem\Desktop\Students' Project APK --api-level 10 --alias CTI --keystore C:\Users\Aalem\Desktop\Keys\CTI_Keystore --store-password aalem123 --key-password aalem123 --no-colors --no-progress-bars --no-prompt --no-banner --prompt-type socket-bundle --prompt-port 63796 --config-file C:\Users\Aalem\AppData\Local\Temp\build-1495194530463.json --no-banner --project-dir H:\Appcelerator Workspace\Afghanistan Constitution
+
+[DEBUG]  Detecting modules in C:\ProgramData\Application Data\Titanium\modules
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: facebook 5.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\5.0.0
+[DEBUG]  Detected android module: facebook 5.2.0 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\5.2.0
+[DEBUG]  Detected android module: facebook 6.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\6.0.1
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Application Data\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: hyperloop 2.1.0 @ C:\ProgramData\Application Data\Titanium\modules\android\hyperloop\2.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\3.4.1
+[DEBUG]  Detected android module: ti.cloudpush 4.0.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\4.0.3
+[DEBUG]  Detected android module: ti.map 2.3.10 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.10
+[DEBUG]  Detected android module: ti.map 2.3.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.3
+[DEBUG]  Detected android module: ti.map 2.3.6 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.6
+[DEBUG]  Detected android module: ti.map 3.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\3.0.1
+[DEBUG]  Detected android module: ti.touchid 1.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.touchid\1.0.0
+[DEBUG]  Detected android module: ti.touchid 2.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.touchid\2.0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.10
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.11
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.9
+[DEBUG]  Detected windows module: hyperloop 2.1.0 @ C:\ProgramData\Application Data\Titanium\modules\windows\hyperloop\2.1.0
+[DEBUG]  Detecting modules in C:\ProgramData\Titanium\modules
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: facebook 5.0.0 @ C:\ProgramData\Titanium\modules\android\facebook\5.0.0
+[DEBUG]  Detected android module: facebook 5.2.0 @ C:\ProgramData\Titanium\modules\android\facebook\5.2.0
+[DEBUG]  Detected android module: facebook 6.0.1 @ C:\ProgramData\Titanium\modules\android\facebook\6.0.1
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: hyperloop 2.1.0 @ C:\ProgramData\Titanium\modules\android\hyperloop\2.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\3.4.1
+[DEBUG]  Detected android module: ti.cloudpush 4.0.3 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\4.0.3
+[DEBUG]  Detected android module: ti.map 2.3.10 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.10
+[DEBUG]  Detected android module: ti.map 2.3.3 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.3
+[DEBUG]  Detected android module: ti.map 2.3.6 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.6
+[DEBUG]  Detected android module: ti.map 3.0.1 @ C:\ProgramData\Titanium\modules\android\ti.map\3.0.1
+[DEBUG]  Detected android module: ti.touchid 1.0.0 @ C:\ProgramData\Titanium\modules\android\ti.touchid\1.0.0
+[DEBUG]  Detected android module: ti.touchid 2.0.1 @ C:\ProgramData\Titanium\modules\android\ti.touchid\2.0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.10
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.11
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.9
+[DEBUG]  Detected windows module: hyperloop 2.1.0 @ C:\ProgramData\Titanium\modules\windows\hyperloop\2.1.0
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android
+[INFO]   Deploy type: production
+[INFO]   Building for target: dist-playstore
+[INFO]   Targeting Android SDK API: 23
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: C:\Users\Aalem\Desktop\Keys\CTI_Keystore (cti)
+[DEBUG]  App ID: com.cti.afghanistanconstitution
+[DEBUG]  Classname: AfghanistanConstitution
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: JavaScript files need to be re-encrypted
+[TRACE]  offline build file C:\Users\Aalem\AppData\Local\Temp\build-116b27cbb50e2be2a7d2cfed4d569aee10e0cd38.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"aalem.daneshyar@codetoinspire.org","session":"ea97bdb3d58536e9bac3f8165e0ef963fee27a61 rRu7oKfb0TNFoYVS7FdpHwuBGPdXBqM3Qv2hTp90kR843VNTEis6kP8aZa4UnOnJtPv77KN7II6yo7fieK8hfEFyVgkYci9QQNjWjXhzcEBE181zZMc0d82pj47Au8/iUGApYHoHVT98s6WJ8P/jxE3YwOE26OxJy/2oByIXrDhpO0ceJOI52ypP8HRt8ruKq+F/M/MTrn2y3VSs47vd+yOXK2qYO/NJPrQf/KJKGMLFS2tyJhHohDHLUjdld8it87WFsRhfG9o7C+y4zu/G6qWVxv60E6D0DghDgZfCYTmcfZCNckBO33zz7YATPvvYMg3jV+h1kj7UoslR1J7sEBROXKtQkwavD1j37iOCt+pHssbanBrHWRm9Fk4iyiLmTcOgb6Nl+ZRJkz/ISMxyUNQius+N7P5Iam5M7QswmKbTZAIdkyzXXkCQTI6LmViRlmHICwi4PVeeSllN7S9gcMy5DBzuaPMkEHc2kRMSJU17v3CUy2VYMU5X52mTkosWnlRlwD1aS4ftTcB3/qYjta3eWj6ZtSpslcIWIV03Htk1hOiHQQ99y+e639/3/Ula2PvF4A9bD/QTUPrE723YZ708XuWkFFAQRd7uSGiY1snmaLdyICMjcHHwNywKova3kEOa4yjCGIa/YCyvQF8SAMqKvuf4u9krTcGrD6yl8HfkfROFYu0TYvbLB4VsBG1v2wO7r9oGIPscuMZ4Ovh9lggI8P2wYiW+bNP21mE2Y3s=","ipaddress":"192.168.56.1","fingerprint":"b09339d6b7cdf9ad40c31b1bc09849628a136422","fingerprint_description":"Windows Machine ID: e417d1a3-f162-42d1-b26b-348e3b829434","guid":"01b4523d-adea-48c7-9888-84667ebc4f17","appid":"com.cti.afghanistanconstitution","name":"Afghanistan Constitution","org_id":100141720,"deploytype":"production","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>com.cti.afghanistanconstitution</id>\n  <name>Afghanistan Constitution</name>\n  <version>1.0</version>\n  <publisher>Code To Inspire</publisher>\n  <url>http://www.codetoinspire.org</url>\n  <description/>\n  <copyright>2017 by Somaieh Naseri</copyright>\n  <icon>appicon.png</icon>\n  <fullscreen>false</fullscreen>\n  <navbar-hidden>false</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>01b4523d-adea-48c7-9888-84667ebc4f17</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <ios>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleDefault</string>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\"/>\n    <mobileweb>\n      <precache/>\n      <splash>\n        <enabled>true</enabled>\n        <inline-css-images>true</inline-css-images>\n      </splash>\n      <theme>default</theme>\n    </mobileweb>\n    <modules/>\n    <deployment-targets>\n      <target device=\"iphone\">false</target>\n      <target device=\"ipad\">false</target>\n      <target device=\"android\">true</target>\n      <target device=\"mobileweb\">false</target>\n      <target device=\"windows\">false</target>\n    </deployment-targets>\n    <sdk-version>5.4.0.GA</sdk-version>\n    <property name=\"appc-app-id\" type=\"string\">591ab88a986e182ffbb843d3</property>\n  </ti:app>","modules":[]},"gzip":true,"followAllRedirects":true,"url":"https://platform.appcelerator.com/api/v1/auth/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"Esl0avToSRmyzIyKtxRyug==","pepper":"/K29j3Od1MHg5AJ/h00pyQ==","hmacKey":"X5vsP+pqWQJJ9fNBFHsgrw==","o":100141720,"u":"498b16bf-dc92-4501-8f3a-6bc5e02ea16b","p":"starter","i":"591edbb1c5e6373a8eca7b3a","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\Resources
+[DEBUG]  Ignoring H:\Appcelerator Workspace\Afghanistan Constitution\Resources\android
+[WARN]   Overwriting file H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\assets\AfghanConstitution.sqlite
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\assets\AfghanConstitution.sqlite => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\assets\AfghanConstitution.sqlite
+[WARN]   Overwriting file H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\img\logoImage.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\img\logoImage.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\img\logoImage.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\android
+[WARN]   Overwriting file H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\android\appicon.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-hdpi\appicon.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-hdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-hdpi\background.9.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-hdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-mdpi\appicon.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-mdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-mdpi\background.9.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-mdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-xhdpi\appicon.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-xhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-xhdpi\background.9.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-xhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-xxhdpi\appicon.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-xxhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-xxhdpi\background.9.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-xxhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-xxxhdpi\appicon.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-xxxhdpi\appicon.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\platform\android\res\drawable-xxxhdpi\background.9.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable-xxxhdpi\background.9.png
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\appicon.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable\appicon.png
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\app\default\template\Resources\android\default.png => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\drawable\background.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\about.js => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\assets\about.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\app.js => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\assets\app.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\clause.js => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\assets\clause.js
+[DEBUG]  Copying and minifying H:\Appcelerator Workspace\Afghanistan Constitution\Resources\section.js => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\assets\section.js
+[INFO]   Encrypting JavaScript files: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium_prep.win32.exe "com.cti.afghanistanconstitution" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\assets" "about.js" "app.js" "clause.js" "section.js" "_app_props_.json"
+[DEBUG]  32-bit titanium prep failed, trying again using 64-bit
+[INFO]   Encrypting JavaScript files: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium_prep.win64.exe "com.cti.afghanistanconstitution" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\assets" "about.js" "app.js" "clause.js" "section.js" "_app_props_.json"
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar
+[DEBUG]  Unknown namespace android.r.drawable, skipping
+[DEBUG]  Unknown namespace android.r, skipping
+[INFO]   Writing H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\app.json
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.res.zip
+[DEBUG]  Copying C:\Users\Aalem\AppData\Local\Temp\117419-41820-10fisx4\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-j42yy8\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-122rit2\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-cajcrl\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-gvq8i7\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-1xiwqc4\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-1agtljc\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-2wvadx\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-tl8uws\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.res.zip
+[DEBUG]  Merging C:\Users\Aalem\AppData\Local\Temp\117419-41820-1vn3ydn\res\values\strings.xml => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\.classpath
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\.gitignore
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\.project
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\AndroidManifest.xml
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\img\afghanistanCon.png
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets\Resources\img\ddd.png
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\default.properties
+[DEBUG]  Removing old file: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\java-sources.txt
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\AppInfo.java => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\gen\com\cti\afghanistanconstitution\AfghanistanConstitutionAppInfo.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\App.java => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\gen\com\cti\afghanistanconstitution\AfghanistanConstitutionApplication.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\Activity.java => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\gen\com\cti\afghanistanconstitution\AfghanistanConstitutionActivity.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\project => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\.project
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\default.properties => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\default.properties
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\gitignore => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\.gitignore
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\templates\build\classpath => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Merging en strings => H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\strings.xml
+[INFO]   Generating H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res\values\theme.xml
+[INFO]   Packaging application: I:\AndroidStudio\SDK\build-tools\23.0.3\aapt.exe "package" "-f" "-m" "-J" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\gen" "-M" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\AndroidManifest.xml" "-A" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\assets" "-S" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\res" "-I" "I:\AndroidStudio\SDK\platforms\android-23\android.jar" "-F" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:android.support.v7.cardview" "-S" "C:\Users\Aalem\AppData\Local\Temp\117419-41820-1mqogey/res" "-S" "C:\Users\Aalem\AppData\Local\Temp\117419-41820-vqu1rs/res" "-S" "C:\Users\Aalem\AppData\Local\Temp\117419-41820-71c7se/res"
+[INFO]   Building Java source files: C:\Program Files\Java\jdk1.8.0_111\bin\javac.exe "-J-Xmx1024M" "-encoding" "utf8" "-bootclasspath" "I:\AndroidStudio\SDK\platforms\android-23\android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\lib\titanium-verify.jar;R.class;AfghanistanConstitutionActivity.class;AfghanistanConstitutionAppInfo.class;AfghanistanConstitutionApplication.class;AssetCryptImpl.class" "-d" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@H:\Appcelerator Workspace\Afghanistan Constitution\build\android\java-sources.txt"
+[INFO]   Running dexer: C:\Program Files\Java\jdk1.8.0_111\bin\java.exe "-Xmx1024M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=I:\AndroidStudio\SDK\platform-tools" "-jar" "I:\AndroidStudio\SDK\build-tools\23.0.3\lib\dx.jar" "--dex" "--output=H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\classes.dex" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\classes" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\lib\titanium-verify.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Deflating assets/Resources/assets/AfghanConstitution.sqlite
+[DEBUG]  Adding assets/Resources/img/logoImage.png
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color-v23/abc_color_highlight_material.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-mdpi-v4/background.9.png
+[DEBUG]  Deflating res/drawable-v21/abc_action_bar_item_background_material.xml
+[DEBUG]  Deflating res/drawable-v21/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable-v23/abc_control_background_material.xml
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/background.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/background.9.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_seekbar_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_seekbar_track_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_text_cursor_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_button_bar_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_lines.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout-v17/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout-v17/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_button_bar_material.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/notification_media_action.xml
+[DEBUG]  Deflating res/layout/notification_media_cancel_action.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout/notification_template_lines.xml
+[DEBUG]  Deflating res/layout/notification_template_media.xml
+[DEBUG]  Deflating res/layout/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating res/layout/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-v8.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\aps-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-android.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\kroll-common.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-app.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-media.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v4.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-cardview.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\cardview-v7-23.0.1.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-locale.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-network.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-xml.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-platform.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.4.0.GA\android\modules\titanium-database.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing H:\Appcelerator Workspace\Afghanistan Constitution\build\android\src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[INFO]   Writing unsigned apk: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\app-unsigned.apk
+[INFO]   Using SHA1withRSA signature algorithm
+[INFO]   Signing apk: C:\Program Files\Java\jdk1.8.0_111\bin\jarsigner.exe "-sigalg" "SHA1withRSA" "-digestalg" "SHA1" "-keystore" "C:\Users\Aalem\Desktop\Keys\CTI_Keystore" "-storepass" "********" "-keypass" "aalem123" "-signedjar" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\Afghanistan Constitution.apk" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\app-unsigned.apk" "cti"
+[INFO]   Aligning zip file: I:\AndroidStudio\SDK\build-tools\23.0.3\zipalign.exe "-v" "4" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\Afghanistan Constitution.apk" "H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\Afghanistan Constitution.apkz"
+[INFO]   Writing build manifest: H:\Appcelerator Workspace\Afghanistan Constitution\build\android\build-manifest.json
+[DEBUG]  Copying H:\Appcelerator Workspace\Afghanistan Constitution\build\android\bin\Afghanistan Constitution.apk => C:\Users\Aalem\Desktop\Students' Project APK\Afghanistan Constitution.apk
+[INFO]   Packaging complete
+[INFO]   Package location: C:\Users\Aalem\Desktop\Students' Project APK\Afghanistan Constitution.apk
+[TRACE]  updating tiapp metadata with Appcelerator Platform...
+[INFO]   Project built successfully in 1m 12s 995ms
