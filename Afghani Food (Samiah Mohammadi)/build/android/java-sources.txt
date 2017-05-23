@@ -1,7 +1,0 @@
-"H:/Appcelerator Workspace/Afghani Food/build/android/gen/android/support/v7/appcompat/R.java"
-"H:/Appcelerator Workspace/Afghani Food/build/android/gen/com/cti/afghanifood/AfghaniFoodActivity.java"
-"H:/Appcelerator Workspace/Afghani Food/build/android/gen/com/cti/afghanifood/AfghaniFoodAppInfo.java"
-"H:/Appcelerator Workspace/Afghani Food/build/android/gen/com/cti/afghanifood/AfghaniFoodApplication.java"
-"H:/Appcelerator Workspace/Afghani Food/build/android/gen/com/cti/afghanifood/AssetCryptImpl.java"
-"H:/Appcelerator Workspace/Afghani Food/build/android/gen/com/cti/afghanifood/R.java"
-"H:/Appcelerator Workspace/Afghani Food/build/android/gen/ti/modules/titanium/ui/R.java"
