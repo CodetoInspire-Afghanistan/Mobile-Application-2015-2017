@@ -1,0 +1,17 @@
+android/ATTR_MINIFY=true
+android/ATTR_MINIFY.type=Boolean
+android/ATTR_PROJECT_NAME=Apple
+android/ATTR_PROJECT_NAME.type=String
+android/distribute_path=C\:\\Users\\Aalem\\Desktop\\Students' Project APK
+android/distribute_path.type=String
+android/key_password=aalem123
+android/key_password.type=String
+android/keystore_alias=CTI
+android/keystore_alias.type=String
+android/keystore_password=aalem123
+android/keystore_password.type=String
+android/keystore_path=C\:\\Users\\Aalem\\Desktop\\Keys\\CTI_Keystore
+android/keystore_path.type=String
+android/recent_output=C\:\\Users\\Aalem\\Desktop\\Students' Project APK
+android/recent_output.type=String
+eclipse.preferences.version=1
