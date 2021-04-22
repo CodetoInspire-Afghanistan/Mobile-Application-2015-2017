@@ -1,0 +1,8 @@
+<Alloy>
+	<View class="categoryView" id="category" onClick="details">
+		<View id="innerCircle">
+			<Label id="fontIcon"></Label>
+		<Label class="categoryName" id="categoryName">Hotels</Label>
+		</View>
+	</View>
+</Alloy>

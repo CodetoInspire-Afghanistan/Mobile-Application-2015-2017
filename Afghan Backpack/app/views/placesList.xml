@@ -1,0 +1,44 @@
+<Alloy>
+	<Window id="placeList">
+		<!-- <ActionBar platform="android" displayHomeAsUp="true" onHomeIconItemSelected="closeWin"></ActionBar> -->
+		<View id="holeContainer">
+			<View id='listViewContainer'>
+				<ListView defaultItemTemplate="template" onItemclick="openDetailsWindow" id="listView">
+					<Templates>
+						<ItemTemplate name="template" onClick="showDetails">
+							<View id='outer'>
+								<View id='inner'>
+									<ImageView bindId="pic" id="picture" />
+								</View>
+								<View id="bottomContainer">
+									<View id="lblContainer">
+										<Label bindId="title" id='titleLbl' />
+										<Label bindId="description" id='descLbl' />
+									</View>
+									<View id="heartContainer" >
+										<Label id="heart" text="favorite" />
+									</View>
+								</View>
+							</View>
+						</ItemTemplate>
+					</Templates>
+					<ListSection id="section"></ListSection>
+				</ListView>
+			</View>
+			<View id="line" />
+			<View id='buttonsContainer'>
+				<View id="left">
+					<Label class="material_icon" text="nature_people" onClick="changeCategory" id="amusingBtn" />
+					<Label class="material_icon" text="business" onClick="changeCategory" id="historicalBtn" />
+				</View>
+				<View id="right">
+					<Label class="material_icon" text="restaurant_menu" onClick="changeCategory" id="restaurantBtn" />
+					<Label class="material_icon" text="hotel" onClick="changeCategory" id="hotelBtn" />
+				</View>
+			</View>
+		</View>
+		<CardView id="favoriteContainer">
+			<Label id="favorite" text="favorite" />
+		</CardView>
+	</Window>
+</Alloy>

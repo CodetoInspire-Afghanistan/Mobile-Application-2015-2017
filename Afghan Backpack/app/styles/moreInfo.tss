@@ -1,0 +1,33 @@
+
+".container" : {
+  modal:true,
+  theme:"Theme.AppCompat.Fullscreen"
+}
+
+"#main":{
+	width:"90%",
+}
+
+"#scrollView":{
+	width:Titanium.UI.FILL,
+	height:Titanium.UI.SIZE,
+}
+
+"#descriptionView":{
+	width:"90%",
+	padding:20,
+	backgroundColor:"white",
+	zIndex:0
+}
+
+"#description":{
+	textAlign:"auto",
+	color:"#444",
+}
+
+// "#closeBtn":{
+	// backgroundImage:"/images/app_photo/close.png",
+	// width:30,
+	// height:30,
+	// zIndex:1
+// }

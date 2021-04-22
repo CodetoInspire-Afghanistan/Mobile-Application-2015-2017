@@ -1,0 +1,4 @@
+<Alloy>
+	<Window id="mapWindow" onOpen="getUserLocation">
+	</Window>
+</Alloy>

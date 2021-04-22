@@ -1,0 +1,6 @@
+<Alloy>
+	<TableViewRow id="row">
+		<ImageView image="/images/app_photo/about.png" />
+			<Label>About</Label>
+	</TableViewRow>
+</Alloy>

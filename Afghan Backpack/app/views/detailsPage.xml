@@ -1,0 +1,33 @@
+<Alloy>
+	<Window id="detailsWindow" backgroundColor="white">
+		<ActionBar platfrom="android" displayHomeAsUp="true" onHomeIconItemSelected="closeWin" />
+		<ScrollView id="mainContainer">
+			<View id="topView" />
+			<View id="imageContainer">
+				<View id="schrollerContainer">
+					<ScrollableView id="scrollableView" />
+					<View id="bottomRibon">
+						<View id="controllersContainer">
+							<View id="previous">
+								<Label class="material_icon" text="keyboard_arrow_left" onClick="goBack" />
+							</View>
+							<View id="next">
+								<Label class="material_icon" text="keyboard_arrow_right" onClick="goForward" />
+							</View>
+						</View>
+					</View>	
+				</View>
+				<CardView id="heartContainer">
+					<Label id="heart" text="favorite" />
+				</CardView>
+			</View>
+			<View id="titleContainer">
+				<Label id="title" />
+			</View>
+			<View id="desciptionContainer">
+				<Label id="description" />
+			</View>
+			<View id="mapContainer"></View>
+		</ScrollView>
+	</Window>
+</Alloy>

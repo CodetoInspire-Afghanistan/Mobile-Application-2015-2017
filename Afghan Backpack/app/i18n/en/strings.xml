@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8">
+<resources>
+	<string name="province">en_provinces</string>
+	<string name="category">en_categories</string>
+	<string name="parks">en_amusing</string>
+	<string name="historical">en_historical</string>
+	<string name="restaurants">en_restaurant</string>
+	<string name="hotels">en_hotel</string>
+	<string name="moreInfo">More Information</string>
+	<string name="close">Close</string>
+	
+</resources>

@@ -1,7 +1,0 @@
-"H:/Appcelerator Workspace/Code To Inspire/build/android/gen/android/support/v7/appcompat/R.java"
-"H:/Appcelerator Workspace/Code To Inspire/build/android/gen/com/cti/cti/AssetCryptImpl.java"
-"H:/Appcelerator Workspace/Code To Inspire/build/android/gen/com/cti/cti/CodeToInspireActivity.java"
-"H:/Appcelerator Workspace/Code To Inspire/build/android/gen/com/cti/cti/CodeToInspireAppInfo.java"
-"H:/Appcelerator Workspace/Code To Inspire/build/android/gen/com/cti/cti/CodeToInspireApplication.java"
-"H:/Appcelerator Workspace/Code To Inspire/build/android/gen/com/cti/cti/R.java"
-"H:/Appcelerator Workspace/Code To Inspire/build/android/gen/ti/modules/titanium/ui/R.java"

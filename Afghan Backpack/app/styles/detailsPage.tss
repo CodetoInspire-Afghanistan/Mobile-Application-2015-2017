@@ -1,0 +1,124 @@
+
+"#mainContainer": {
+	height: '100%',
+	width: '100%',
+	backgroundColor: 'transparent',
+	layout: 'vertical'
+}
+
+'#topView': {
+	backgroundColor: 'purple',
+	height: '50dp',
+	width: '100%'
+}
+
+'#imageContainer': {
+	height: '260dp',
+	width: '90%',
+	backgroundColor: 'transparent',
+	top: '-35dp',
+	layout: 'vertical',
+	borderRadius: 5
+}
+
+'#schrollerContainer':{
+	height: '90%',
+	width: Ti.UI.FILL
+}
+
+'#scrollableView': {
+	height: Ti.UI.FILL,
+	width: Ti.UI.FILL,
+	// backgroundColor: 'pink'
+}
+
+'#bottomRibon':{
+	height: '14%',
+	width: Ti.UI.FILL,
+	backgroundColor: '#60000000',
+	bottom: '0dp',
+}
+
+'#controllersContainer':{
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE,
+	layout: 'horizontal',
+	left: '5dp'
+}
+
+'#previous':{
+	height: '25dp',
+	width: '25dp',
+	borderRadius: 12.5,
+	backgroundColor: '#90ffffff'
+}
+
+'#next':{
+	height: '25dp',
+	width: '25dp',
+	borderRadius: 12.5,
+	backgroundColor: '#90ffffff',
+	left: '3%'
+}
+
+'#heartContainer': {
+	height: '50dp',
+	width: '50dp',
+	borderRadius: 25,
+	right: '5%',
+	top: '-10%',
+	backgroundColor: '#efeded'
+}
+
+'#heart': {
+	font: {
+		fontFamily: Alloy.Globals.material_icons,
+		fontSize: '35sp'
+	},
+	color: 'red'
+}
+
+'#titleContainer': {
+	height: Ti.UI.SIZE,
+	// backgroundColor: 'green',
+	width: '90%',
+	layout: 'horizontal',
+}
+
+'#title': {
+	font: {
+		fontSize: '20dp',
+		fontWeight: 'bold'
+	},
+	color: 'purple',
+	textAlign:'auto'
+}
+
+'#desciptionContainer': {
+	height: Ti.UI.SIZE,
+	// backgroundColor: 'yellow',
+	width: '90%',
+	layout: 'horizontal'
+}
+
+'#description': {
+	color: 'black',
+	textAlign:'auto'
+}
+
+'#mapContainer': {
+	backgroundColor: 'yellow',
+	height: '200dp',
+	width: '90%',
+	top: '10dp',
+	borderRadius: 5
+}
+
+'.material_icon': {
+	font: {
+		fontFamily: Alloy.Globals.material_icons,
+		fontSize: '25dp',
+		fontWeight: 'bold'
+	},
+	color: 'purple',
+}

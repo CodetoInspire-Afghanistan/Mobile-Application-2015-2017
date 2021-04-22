@@ -1,0 +1,19 @@
+
+"#row" : {
+  width:Titanium.UI.FILL,
+  height:45,
+}
+
+"#viewRow":{
+	layout:"horizontal"
+}
+
+"#imageRow":{
+	left:10,
+	top:12
+}
+
+"#labelRow":{
+	left:10,
+	top:12
+}

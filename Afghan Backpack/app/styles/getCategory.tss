@@ -1,0 +1,41 @@
+
+".container" : {
+  
+}
+
+"#fontIcon":{
+	color:"#716ABB",
+	font:{
+		fontSize:35,
+		fontFamily:"font_awesome.ttf"
+	},
+	top:15
+}
+
+".categoryView":{
+	height:120,
+	width:120,
+	backgroundColor:"transparent",
+	borderRadius:1000,
+	top:4,
+	borderColor:"#bbb",
+	borderWidth:1
+}
+
+".categoryName":{
+	color:"#716ABB",
+	font:{
+		fontWeight:"bold"
+	},
+	top:5
+}
+
+"#innerCircle":{
+	width:"85%",
+	height:"85%",
+	borderColor:"#716ABB",
+	borderWidth:2,
+	borderRadius:1000,
+	layout:"vertical"
+}
+

@@ -1,0 +1,89 @@
+
+".container" : {
+ 	backgroundColor:"white",
+ 	// layout:"vertical",
+}
+
+"#mainScrollview":{
+	layout:"vertical",
+	width:Titanium.UI.FILL,
+	// height:Titanium.UI.SIZE
+}
+
+"#top":{
+	height:"30%",
+	top:10,
+	
+}
+
+"#imgHeader":{
+	height:"100%",
+	width:"95%",
+	borderRadius:10
+}
+
+"#topImage":{
+	height:"100%",
+	width:"95%",
+	image:"/images/app_photo/header.png",
+	borderRadius:10
+}
+
+"#descriptionView":{
+	top:10,
+	width:"95%",
+	height:Titanium.UI.SIZE,
+} 
+"#bottom":{
+	bottom:10,
+	width:"80%",
+	height:Titanium.UI.SIZE,
+	layout:"horizontal",
+}
+
+"#provinceName":{
+	color:"#716ABB",
+	font:{
+		fontSize:"20sp",
+		fontWeight:"bold"
+	},
+}
+
+"#desc":{
+	color:"black",
+	font:{
+		fontSize:"13sp",
+	},
+	width:Titanium.UI.FILL,
+	textAlign:"auto",
+	top:5,
+	
+}
+
+"#scrollView":{
+	height:Titanium.UI.SIZE,
+	layout:"vertical"
+}
+
+"#infoView":{
+	width:Ti.UI.SIZE,
+	height:35,
+	backgroundColor:"#716ABB",
+	top:5,
+	padding:5
+}
+
+"#infoLabel":{
+	color:"white",
+	font:{
+		fontSize:'14sp'
+	}
+}
+
+"#weather":{
+	width:"95%",
+	height:50,
+	top:10,
+	// layout:"horizontal"
+}
+

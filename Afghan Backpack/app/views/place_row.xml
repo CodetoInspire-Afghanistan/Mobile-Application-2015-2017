@@ -1,0 +1,5 @@
+<Alloy>
+	<CardView id="place">
+		<ImageView id="place_photo"></ImageView>
+	</CardView>
+</Alloy>

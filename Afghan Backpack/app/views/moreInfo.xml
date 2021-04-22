@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container" id="window">
+		<View id="main">
+			<CardView id="descriptionView">
+				<ScrollView id="scrollView">
+					<Label id="description"></Label>
+				</ScrollView>
+			</CardView>
+			<View id="closeBtn"></View>
+		</View>
+	</Window>
+</Alloy>

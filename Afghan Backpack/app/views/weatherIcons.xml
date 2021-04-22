@@ -1,0 +1,20 @@
+<Alloy>
+	<View id="weatherContainer">	
+	<View id="spring">
+		<Label id="springicon"></Label>
+		<Label id="springdegree">10 - 20</Label>
+	</View>
+	<View id="summer">
+		<Label id="summericon">\uf185</Label>
+		<Label id="summerdegree">10 - 20</Label>
+	</View>
+	<View id="spring">
+		<Label id="fallicon">\uf55f</Label>
+		<Label id="falldegree">10 - 20</Label>
+	</View>
+	<View id="spring">
+		<Label id="wintericon">\uf2dc</Label>
+		<Label id="winterdegree">10 - 20</Label>
+	</View>
+	</View>
+</Alloy>

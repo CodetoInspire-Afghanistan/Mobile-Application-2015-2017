@@ -1,0 +1,151 @@
+
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"Window": {
+	backgroundColor: 'white'
+}
+
+'#holeContainer': {
+	layout: 'vertical'
+}
+
+'#favoriteContainer': {
+	backgroundColor: 'white',
+	height: '55dp',
+	width: '55dp',
+	bottom: '1.5%',
+	borderRadius: 30
+}
+
+"#listView":{
+	separatorColor:'transparent',
+	separatorHeight:0
+}
+
+'#listViewContainer': {
+	backgroundColor: 'transparent',
+	width: '100%',
+	height: '89.5%'
+}
+
+'#line': {
+	height: '1dp',
+	width: '100%',
+	backgroundColor: '#bcbaba'
+}
+
+'#buttonsContainer': {
+	backgroundColor: 'white',
+	width: '100%',
+	height: '10%'
+}
+
+'#outer': {
+	backgroundColor: '#efeded',
+	height: Titanium.UI.SIZE,
+	width: '95%',
+	layout: 'vertical',
+	top: '20dp',
+	borderRadius: 5
+}
+
+'#inner': {
+	backgroundColor: 'transparent',
+	height: Titanium.UI.SIZE,
+	width: '100%'
+}
+
+'#bottomContainer': {
+	height:80,
+	backgroundColor: 'transparent',
+	width: '95%',
+	layout: 'horizontal'
+}
+
+'#lblContainer': {
+	height: Titanium.UI.FILL,
+	width: '80%',
+	backgroundColor: 'transparent',
+	layout: 'vertical'
+}
+
+'#heartContainer': {
+	// height: 50,
+	width: '20%',
+	backgroundColor: 'transparent',
+}
+
+'#titleLbl': {
+	backgroundColor: 'transparent',
+	width: Ti.UI.FILL,
+	font: {
+		fontSize: '20dp',
+		fontWeight: 'bold'
+	},
+	color: 'purple',
+	top: '5dp',
+	textAlign:'auto'
+}
+
+'#descLbl': {
+	backgroundColor: 'transparent',
+	width: Ti.UI.FILL,
+	color: 'black',
+	font: {
+		fontSize: '15sp'
+	},
+	textAlign:'auto'
+}
+
+"#heart": {
+	font: {
+		fontFamily: Alloy.Globals.material_icons,
+		fontSize: '30sp'
+	},
+	color: 'red'
+}
+
+'#picture': {
+	height: Ti.UI.SIZE,
+	width: Ti.UI.FILL,
+	top:0
+}
+
+'.material_icon': {
+	font: {
+		fontFamily: Alloy.Globals.material_icons,
+		fontSize: '30sp'
+	},
+	color: 'purple',
+	// top: '10%',
+	left: '20%'
+}
+
+"#left": {
+	backgroundColor: 'transparent',
+	width: '34%',
+	height: Ti.UI.SIZE,
+	left: '2%',
+	layout: 'horizontal'
+}
+
+"#right": {
+	backgroundColor: 'transparent',
+	width: '34%',
+	height: Ti.UI.SIZE,
+	right: '2%',
+	layout: 'horizontal'
+}
+
+"#favorite": {
+	font: {
+		fontFamily: Alloy.Globals.material_icons,
+		fontSize: '35sp'
+	},
+	color: 'red'
+}

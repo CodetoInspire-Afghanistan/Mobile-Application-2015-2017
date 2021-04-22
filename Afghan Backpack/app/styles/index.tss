@@ -1,0 +1,18 @@
+".container": {
+	title: "Afghan Backpack",
+	orientationModes: [],
+	backgroundColor: "#eee"
+}
+
+"#scrollView":{
+	width: "95%",
+	height:Titanium.UI.SIZE,
+	layout: "vertical",
+	top: 0
+}
+
+"#container":{
+	layout: "horizontal",
+	width:Titanium.UI.FILL,
+	height:Titanium.UI.SIZE
+}

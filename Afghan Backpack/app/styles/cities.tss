@@ -1,0 +1,42 @@
+"#provinceView":{
+	width:Titanium.UI.FILL,
+	height:Titanium.UI.SIZE,
+	top: 7,
+	// left: 10,
+	backgroundColor:"white"
+}
+
+"#provinceImage":{
+	image: "/images/province_image/kabul1.webp",
+	width:Titanium.UI.FILL,
+	height: 150
+}
+
+"#labels":{
+	layout: "vertical",
+	bottom: 15,
+	width:Titanium.UI.FILL,
+	height:Titanium.UI.SIZE,
+	left: 20
+}
+
+"#provinceName":{
+	textAlign: "auto",
+	width:Ti.UI.FILL,
+	right: 20,
+	font:{
+		fontSize: "22sp",
+		fontWeight: "bold"
+	},
+	color: "white"
+}
+
+"#provinceDesc":{
+	width:Titanium.UI.FILL,
+	textAlign: "auto",
+	right: 20,
+	font:{
+		fontSize: "16sp"
+	},
+	color: "white"
+}

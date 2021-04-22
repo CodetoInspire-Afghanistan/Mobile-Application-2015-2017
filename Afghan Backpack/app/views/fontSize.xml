@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="container" onOpen="openFontList">
+		<OptionDialog id="optionDialog" onClick="changeFontSize"></OptionDialog>
+	</Window>
+</Alloy>

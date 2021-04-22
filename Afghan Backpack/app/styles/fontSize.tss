@@ -1,0 +1,9 @@
+
+"#container" : {
+  modal:true
+}
+
+"#optionDialog":{
+	options:["14", "16","18", "20"],
+	title:"Font Size",
+}

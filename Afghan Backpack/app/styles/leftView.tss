@@ -1,0 +1,45 @@
+
+"#mainView" : {
+  layout:"vertical",
+  backgroundColor:"#716ABB"
+}
+
+"#topView":{
+	layout:"vertical",
+	backgroundColor:"#716ABB",
+	height:200,
+	width:200
+}
+
+"#icon":{
+	image : "/images/app_photo/appicon.webp",
+	width : "60%",
+	height : "60%",
+	borderRadius : 10000,
+	top : "8%"
+}
+
+"#appName":{
+	text : "Afghan Backpack",
+	textAlign : "center",
+	font : {
+		fontSize : "18dp",
+		fontWeight : "bold",
+		fontFamily : "CaviarDreams_Bold",
+	},
+	color : "#fff",
+	top : "5dp"
+}
+
+"#setting":{
+	width : "100%",
+	height : Ti.UI.SIZE,
+	layout : "vertical",
+	backgroundColor : "#fff"
+}
+
+"#drawerTableView":{
+	width:'95%',
+	separatorColor:'#ededed',
+}
+

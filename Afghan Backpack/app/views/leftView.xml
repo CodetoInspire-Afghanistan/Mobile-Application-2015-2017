@@ -1,0 +1,19 @@
+<Alloy>
+	<View id="mainView">
+		<View id="topView">
+			<ImageView id="icon" />
+			<Label id="appName"></Label>
+		</View>
+		<View id="setting">
+			<TableView id="drawerTableView">
+				<!-- <TableViewRow>
+					<Label color="black">Temperature Unit</Label>
+				</TableViewRow>
+				<TableViewRow></TableViewRow>
+				<TableViewRow></TableViewRow>
+				<TableViewRow></TableViewRow>
+				<TableViewRow></TableViewRow> -->
+			</TableView>
+		</View>
+	</View>
+</Alloy>

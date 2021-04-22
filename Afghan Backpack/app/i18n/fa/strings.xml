@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8">
+<resources>
+	<string name="province">fa_provinces</string>
+	<string name="category">fa_categories</string>
+	<string name="parks">fa_amusing</string>
+	<string name="historical">fa_historical</string>
+	<string name="restaurants">fa_restaurant</string>
+	<string name="hotels">fa_hotel</string>
+	<string name="moreInfo">اطلاعات بیشتر</string>
+	<string name="close">بستن</string>
+</resources>

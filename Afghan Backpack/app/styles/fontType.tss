@@ -1,0 +1,27 @@
+
+"#container" : {
+  modal:true
+}
+
+"#mainView":{
+	height : "70%",
+	width : "80%",
+	backgroundColor : "#252932",
+	layout:"vertical"
+}
+
+"#title":{
+	font:{
+		fontSize:"18dp",
+		fontFamily:"CaviarDreams_Bold"
+	},
+	textAlign:"center",
+	color:"#4eaba1",
+	top:"15dp"
+}
+
+"#tableView":{
+	width : "90%",
+	separatorColor : "#252932",
+	top : "25dp",
+}

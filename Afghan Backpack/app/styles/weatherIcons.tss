@@ -1,0 +1,50 @@
+
+"#weatherContainer": {
+	width:"100%",
+	height:Titanium.UI.SIZE,
+	layout:"horizontal"
+}
+
+
+"#spring":{
+	layout: "vertical",
+	width: "25%",
+}
+
+"#summer":{
+	layout: "vertical",
+	width: "25%",
+}
+
+"#springicon":{
+	font:{
+		fontFamily: "material_icons.ttf",
+		fontSize:'25sp'
+	},
+	color:"#d0819e",
+	text:"local-florist"
+}
+
+
+"#summericon":{
+	font:{
+		fontFamily: "font_awesome.ttf",
+		fontSize:'25sp'
+	},
+	color:"#e0c045"
+}
+
+"#fallicon":{
+	font:{
+		fontFamily: "font_awesome.ttf",
+		fontSize:'25sp'
+	},
+	color:"#ea9248"
+}
+"#wintericon":{
+	font:{
+		fontFamily: "font_awesome.ttf",
+		fontSize:'25sp'
+	},
+	color:"#5095bc"
+}

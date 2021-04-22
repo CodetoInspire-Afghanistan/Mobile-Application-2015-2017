@@ -1,0 +1,18 @@
+<resources>
+	<style name="Theme.Tourism" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimary">@color/primary</item>
+		<item name="colorPrimaryDark">@color/primaryDark</item>
+		<item name="colorAccent">@color/primaryDark</item>
+		<item name="colorControlHighlight">@color/colorHighlight</item>
+		<item name="colorControlActivated">@color/colorActivated</item>
+		<item name="android:navigationBarColor">@color/primary</item> 
+		<item name="android:statusBarColor">@color/primaryDark</item>
+		<item name="android:textColorPrimary">@color/textPrimary</item>
+	</style>
+	<color name="colorActivated">#716ABB</color>
+	<color name="primary">#716ABB</color>
+	<color name="primaryDark">#413d70</color>
+	<color name="textPrimary">#ffffff</color>
+	<color name="accent">#716ABB</color>
+	<color name="colorHighlight">#716ABB</color>
+</resources>

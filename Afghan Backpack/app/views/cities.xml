@@ -1,0 +1,10 @@
+<Alloy>
+	<CardView  id="provinceView" onClick="categories" >
+		<!-- <ImageView id="kabul" class="provinceImage"/> -->
+		<ImageView id="provinceImage"/>
+		<View id="labels">
+			<Label id="provinceName"></Label>
+			<Label id="provinceDesc">Capital of Afghanistan</Label>
+		</View>
+	</CardView>
+</Alloy>

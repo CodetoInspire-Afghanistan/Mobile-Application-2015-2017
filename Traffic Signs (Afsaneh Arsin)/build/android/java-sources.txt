@@ -1,7 +1,0 @@
-"H:/Appcelerator Workspace/Traffic Signs/build/android/gen/android/support/v7/appcompat/R.java"
-"H:/Appcelerator Workspace/Traffic Signs/build/android/gen/com/cti/trafficsigns/AssetCryptImpl.java"
-"H:/Appcelerator Workspace/Traffic Signs/build/android/gen/com/cti/trafficsigns/R.java"
-"H:/Appcelerator Workspace/Traffic Signs/build/android/gen/com/cti/trafficsigns/TrafficSignsActivity.java"
-"H:/Appcelerator Workspace/Traffic Signs/build/android/gen/com/cti/trafficsigns/TrafficSignsAppInfo.java"
-"H:/Appcelerator Workspace/Traffic Signs/build/android/gen/com/cti/trafficsigns/TrafficSignsApplication.java"
-"H:/Appcelerator Workspace/Traffic Signs/build/android/gen/ti/modules/titanium/ui/R.java"

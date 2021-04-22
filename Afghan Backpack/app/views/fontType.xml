@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="container">
+		<CardView id="mainView">
+			<Label id="title">Font Type</Label>
+			<TableView id="tableView" onClick="check"></TableView>
+		</CardView>
+	</Window>
+</Alloy>

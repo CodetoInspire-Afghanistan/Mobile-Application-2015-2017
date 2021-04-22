@@ -1,0 +1,21 @@
+<Alloy>
+	<Window class="container" title="Categories" onOpen="getCategories">
+		<ScrollView id="mainScrollview">
+			<View id="top">
+				<ImageView id="imgHeader" />
+				<!-- <ImageView id="topImage"/> -->
+			</View>
+			<View id="descriptionView">
+				<ScrollView id="scrollView">
+					<Label id="provinceName">Province Name</Label>
+					<Label id="desc">Description</Label>
+					<CardView id="infoView" onClick="moreInfo">
+						<Label id="infoLabel"></Label>
+					</CardView>
+				</ScrollView>
+			</View>
+			<View id="weather"></View>
+			<View id="bottom"></View>
+		</ScrollView>
+	</Window>
+</Alloy>

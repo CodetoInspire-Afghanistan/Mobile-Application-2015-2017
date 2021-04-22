@@ -1,0 +1,18 @@
+<Alloy>
+	<Window class="container" onOpen="getProvinces">
+		<DrawerLayout id="drawer">
+			<LeftView>
+				<Require src="leftView"></Require>
+			</LeftView>
+			<CenterView>
+				<ScrollView id="scrollView">
+					<View id="container"></View>
+				</ScrollView>
+			</CenterView>
+		</DrawerLayout>
+		<!-- <Menu>
+			<MenuItem title="Setting1"/>
+		</Menu> -->
+		<ActionBar displayHomeAsUp="true" onHomeIconItemSelected="homeClick"></ActionBar>
+	</Window>
+</Alloy>

@@ -1,0 +1,21 @@
+
+"#row" : {
+  width : "100%",
+		height : "40dp",
+		// name : fontList[i],
+}
+
+"#fontRowImage":{
+	image : "/images/app_photo/unchecked.png",
+		right : "10dp"
+}
+
+"#fontRowLabel":{
+	// text : fontList[i],
+		font : {
+			// fontFamily : fontList[i],
+			fontSize : "18dp"
+		},
+		left : "20dp",
+		name : "name"
+}
